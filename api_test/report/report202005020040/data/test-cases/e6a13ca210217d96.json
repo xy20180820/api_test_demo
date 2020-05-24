@@ -1,0 +1,51 @@
+{
+  "uid" : "e6a13ca210217d96",
+  "name" : "test_api_case.Test_api0010.test_api0010_1",
+  "fullName" : "test_api_case.test_api_case.Test_api0010.test_api0010_1",
+  "historyId" : "edde06fdaba44fa68ae3405d489dca51",
+  "time" : {
+    "start" : 1590157140109,
+    "stop" : 1590157155362,
+    "duration" : 15253
+  },
+  "description" : "\n            用例描述：post方法，每条用例的描述\n            :param datas:\n            :return:\n            ",
+  "descriptionHtml" : "<pre><code>        用例描述：post方法，每条用例的描述\n        :param datas:\n        :return:\n</code></pre>\n",
+  "status" : "broken",
+  "statusMessage" : "TypeError: 'NoneType' object is not iterable\n-------------------- >> begin captured stdout << ---------------------\nsetup...\n\n--------------------- >> end captured stdout << ----------------------",
+  "statusTrace" : "Traceback (most recent call last):\n  File \"d:\\software\\02python2714\\lib\\unittest\\case.py\", line 329, in run\n    testMethod()\n  File \"d:\\software\\02python2714\\lib\\site-packages\\nose\\case.py\", line 197, in runTest\n    self.test(*self.arg)\n  File \"d:\\software\\02python2714\\lib\\site-packages\\ddt.py\", line 151, in wrapper\n    return func(self, *args, **kwargs)\n  File \"D:\\software\\02python2714\\mypython\\api_test_demo\\api_test\\testcase\\test_api_case.py\", line 634, in test_api0010\n    res_code, res_result = self.call_request.get_request_medthod(datas)\n  File \"D:\\software\\02python2714\\mypython\\api_test_demo\\api_test\\request\\request_method.py\", line 63, in get_request_medthod\n    res_code, res_result = request_method(datas)  # request_method调用实际的方法\nTypeError: 'NoneType' object is not iterable\n-------------------- >> begin captured stdout << ---------------------\nsetup...\n\n--------------------- >> end captured stdout << ----------------------",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "test_api_case"
+  }, {
+    "name" : "testClass",
+    "value" : "test_api_case"
+  }, {
+    "name" : "testMethod",
+    "value" : "test_api_case.Test_api0010.test_api0010_1"
+  }, {
+    "name" : "package",
+    "value" : "test_api_case"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Test defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "e6a13ca210217d96.json",
+  "parameterValues" : [ ]
+}

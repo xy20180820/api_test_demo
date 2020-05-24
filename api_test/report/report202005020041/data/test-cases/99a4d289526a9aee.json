@@ -1,0 +1,45 @@
+{
+  "uid" : "99a4d289526a9aee",
+  "name" : "test_api_case.Test_api005.test_api005_2",
+  "fullName" : "test_api_case.test_api_case.Test_api005.test_api005_2",
+  "historyId" : "412fee4ae71e272d89115f9392ca2351",
+  "time" : {
+    "start" : 1590171645400,
+    "stop" : 1590171645429,
+    "duration" : 29
+  },
+  "description" : "\n            用例描述：post方法，每条用例的描述\n            :param datas:\n            :return:\n            ",
+  "descriptionHtml" : "<pre><code>        用例描述：post方法，每条用例的描述\n        :param datas:\n        :return:\n</code></pre>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "test_api_case"
+  }, {
+    "name" : "testClass",
+    "value" : "test_api_case"
+  }, {
+    "name" : "testMethod",
+    "value" : "test_api_case.Test_api005.test_api005_2"
+  }, {
+    "name" : "package",
+    "value" : "test_api_case"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "99a4d289526a9aee.json",
+  "parameterValues" : [ ]
+}

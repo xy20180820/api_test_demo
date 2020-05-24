@@ -1,0 +1,51 @@
+{
+  "uid" : "93ae5d59116a585c",
+  "name" : "test_api_case.Test_api0010.test_api0010_2",
+  "fullName" : "test_api_case.test_api_case.Test_api0010.test_api0010_2",
+  "historyId" : "46085156b91aaf1d8f36413dbafecf2e",
+  "time" : {
+    "start" : 1590157155363,
+    "stop" : 1590157155968,
+    "duration" : 605
+  },
+  "description" : "\n            用例描述：post方法，每条用例的描述\n            :param datas:\n            :return:\n            ",
+  "descriptionHtml" : "<pre><code>        用例描述：post方法，每条用例的描述\n        :param datas:\n        :return:\n</code></pre>\n",
+  "status" : "failed",
+  "statusMessage" : "AssertionError: 请求错误402\n-------------------- >> begin captured stdout << ---------------------\nsetup...\n402\n<bound method Response.json of <Response [402]>>\n{\n  \"data\": {\n    \"msg\": \"用户名不存在\"\n  }\n}\n\n\n--------------------- >> end captured stdout << ----------------------",
+  "statusTrace" : "Traceback (most recent call last):\n  File \"d:\\software\\02python2714\\lib\\unittest\\case.py\", line 329, in run\n    testMethod()\n  File \"d:\\software\\02python2714\\lib\\site-packages\\nose\\case.py\", line 197, in runTest\n    self.test(*self.arg)\n  File \"d:\\software\\02python2714\\lib\\site-packages\\ddt.py\", line 151, in wrapper\n    return func(self, *args, **kwargs)\n  File \"D:\\software\\02python2714\\mypython\\api_test_demo\\api_test\\testcase\\test_api_case.py\", line 642, in test_api0010\n    assert_equal(expect_code, res_code, msg=u'请求错误%d' % res_code)\n  File \"d:\\software\\02python2714\\lib\\unittest\\case.py\", line 513, in assertEqual\n    assertion_func(first, second, msg=msg)\n  File \"d:\\software\\02python2714\\lib\\unittest\\case.py\", line 506, in _baseAssertEqual\n    raise self.failureException(msg)\nAssertionError: 请求错误402\n-------------------- >> begin captured stdout << ---------------------\nsetup...\n402\n<bound method Response.json of <Response [402]>>\n{\n  \"data\": {\n    \"msg\": \"用户名不存在\"\n  }\n}\n\n\n--------------------- >> end captured stdout << ----------------------",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "test_api_case"
+  }, {
+    "name" : "testClass",
+    "value" : "test_api_case"
+  }, {
+    "name" : "testMethod",
+    "value" : "test_api_case.Test_api0010.test_api0010_2"
+  }, {
+    "name" : "package",
+    "value" : "test_api_case"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "93ae5d59116a585c.json",
+  "parameterValues" : [ ]
+}

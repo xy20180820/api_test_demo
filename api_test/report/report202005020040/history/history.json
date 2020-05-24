@@ -1,0 +1,348 @@
+{
+  "c461888de77349cca59ca967150452f9" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "1def021b2b41e906",
+      "status" : "passed",
+      "time" : {
+        "start" : 1590157156657,
+        "stop" : 1590157156691,
+        "duration" : 34
+      }
+    } ]
+  },
+  "1e21a0a7f71404765db4d5ce6409e9db" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "1baa74f2f59b9c2e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1590157156620,
+        "stop" : 1590157156657,
+        "duration" : 37
+      }
+    } ]
+  },
+  "145a3ce7ee50122c7320d3f4aa998cbf" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "f15038e79e71cd95",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: 请求错误402\n-------------------- >> begin captured stdout << ---------------------\nsetup...\n402\n<bound method Response.json of <Response [402]>>\n{\n  \"data\": {\n    \"msg\": \"用户名不存在\"\n  }\n}\n\n\n--------------------- >> end captured stdout << ----------------------",
+      "time" : {
+        "start" : 1590157156346,
+        "stop" : 1590157156423,
+        "duration" : 77
+      }
+    } ]
+  },
+  "294d586ac648a162c34e3b776f74b73f" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "4f0fbf0c4f360d08",
+      "status" : "passed",
+      "time" : {
+        "start" : 1590157156176,
+        "stop" : 1590157156221,
+        "duration" : 45
+      }
+    } ]
+  },
+  "9c81143923221aab69c0ef2bde45899" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "6c2f02433eb0a449",
+      "status" : "passed",
+      "time" : {
+        "start" : 1590157156058,
+        "stop" : 1590157156152,
+        "duration" : 94
+      }
+    } ]
+  },
+  "b514622b8e0ebde99a7d07e06b09abe1" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "b83b1b3d25c3a647",
+      "status" : "passed",
+      "time" : {
+        "start" : 1590157156734,
+        "stop" : 1590157156761,
+        "duration" : 27
+      }
+    } ]
+  },
+  "edde06fdaba44fa68ae3405d489dca51" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "e6a13ca210217d96",
+      "status" : "broken",
+      "statusDetails" : "TypeError: 'NoneType' object is not iterable\n-------------------- >> begin captured stdout << ---------------------\nsetup...\n\n--------------------- >> end captured stdout << ----------------------",
+      "time" : {
+        "start" : 1590157140109,
+        "stop" : 1590157155362,
+        "duration" : 15253
+      }
+    } ]
+  },
+  "1863d720c82e4e525cc732e1a775dab6" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "681754820070f9d9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1590157156528,
+        "stop" : 1590157156614,
+        "duration" : 86
+      }
+    } ]
+  },
+  "2606e49a408fee308b6353a6965fd85a" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "8fd177ec103446cc",
+      "status" : "passed",
+      "time" : {
+        "start" : 1590157155970,
+        "stop" : 1590157156057,
+        "duration" : 87
+      }
+    } ]
+  },
+  "66335c81d8d2c3bc6e7432655023effc" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "9d708db1128609c4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1590157156222,
+        "stop" : 1590157156265,
+        "duration" : 43
+      }
+    } ]
+  },
+  "44a66f3c20094660eabe758fd48ee6f0" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "efeeaf0498a63d5d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1590157156762,
+        "stop" : 1590157156818,
+        "duration" : 56
+      }
+    } ]
+  },
+  "db3329cc73b22a459eb322d46c3216cc" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "dad4a2af248b7973",
+      "status" : "passed",
+      "time" : {
+        "start" : 1590157156465,
+        "stop" : 1590157156527,
+        "duration" : 62
+      }
+    } ]
+  },
+  "8bcb8eba0c7e8923b520bb507f582c9c" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "816c36e351196ba8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1590157156268,
+        "stop" : 1590157156345,
+        "duration" : 77
+      }
+    } ]
+  },
+  "5a68533dc0ffeedbbee40ce91475a5e9" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "217145fa79425e7e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1590157156428,
+        "stop" : 1590157156461,
+        "duration" : 33
+      }
+    } ]
+  },
+  "d0c9aaebc5e9b435bb2e8a5e70361f79" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "50708df61a8fac69",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: 1 !=2",
+      "time" : {
+        "start" : 1590157156163,
+        "stop" : 1590157156168,
+        "duration" : 5
+      }
+    } ]
+  },
+  "46085156b91aaf1d8f36413dbafecf2e" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "93ae5d59116a585c",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: 请求错误402\n-------------------- >> begin captured stdout << ---------------------\nsetup...\n402\n<bound method Response.json of <Response [402]>>\n{\n  \"data\": {\n    \"msg\": \"用户名不存在\"\n  }\n}\n\n\n--------------------- >> end captured stdout << ----------------------",
+      "time" : {
+        "start" : 1590157155363,
+        "stop" : 1590157155968,
+        "duration" : 605
+      }
+    } ]
+  },
+  "df6f392df79435f43a4e9d11863f67a2" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "8f43d952436a1fda",
+      "status" : "passed",
+      "time" : {
+        "start" : 1590157156819,
+        "stop" : 1590157156895,
+        "duration" : 76
+      }
+    } ]
+  },
+  "af5f0170d6da2cb26705434f2373e2bb" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "b6c7a6e960953085",
+      "status" : "passed",
+      "time" : {
+        "start" : 1590157156692,
+        "stop" : 1590157156724,
+        "duration" : 32
+      }
+    } ]
+  }
+}

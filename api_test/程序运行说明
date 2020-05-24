@@ -1,0 +1,191 @@
+nose教程：
+https://www.cnblogs.com/landhu/p/5638115.html
+
+nose支持allure：
+https://www.cnblogs.com/landhu/p/7126039.html
+pip install nose-allure-plugin
+
+
+安装bs4
+安装说明：
+https://blog.csdn.net/Bibabu135766/article/details/81662981
+下载地址
+pip2 install beautifulsoup4 -i https://mirrors.aliyun.com/pypi/simple/  安装成功
+https://www.crummy.com/software/BeautifulSoup/bs4/download/4.9/
+
+D:\software\02python2714\mypython\python-http-api\test_demo01>allure server alluredir
+'allure' 不是内部或外部命令，也不是可运行的程序
+或批处理文件。
+解决方法：
+https://www.jianshu.com/p/8c2a696090cd
+下载地址：allure安装包
+
+
+allure依赖java：java1.8下载安装
+安装说明：
+https://www.cnblogs.com/nojacky/p/9497724.html
+下载是如果需要oracle，可以使用下面的账号
+账号:  13707259624@163.com
+密码：Java123456
+
+1、运行说明
+生成xml报告：
+旧电脑
+安装pip install nose-allure-plugin
+(venv_http_api_test) D:\python2.7.13\mypython\python-http-api\2018\test_api_demo\test_demo01
+nosetests -v testcase\test_api_case.py --with-allure --logdir=D:\python2.7.13\mypython\python-http-api\2018\test_api_demo\test_demo01\report\result0032 --logging-config=config\logging.conf
+
+新电脑
+nosetests -v testcase\test_api_case.py --with-allure --logdir=D:\software\02python2714\mypython\python-http-api\test_demo01\report\result20200502003  --logging-config=config\logging.conf
+
+2、将xml报告转换为html：
+
+(venv_http_api_test) D:\python2.7.13\mypython\python-http-api\2018\test_api_demo\test_demo01
+allure generate report\result0031 -o D:\python2.7.13\mypython\python-http-api\2018\test_api_demo\test_demo01\report\report0031
+
+新电脑：
+allure generate report\result20200502003 -o D:\software\02python2714\mypython\python-http-api\test_demo01\report\report20200502003
+
+3、代码调试：
+Test_api001调试成功
+nosetests -v testcase\test_api_case.py --with-allure --logdir=D:\software\02python2714\mypython\python-http-api\test_demo01\report\result20200502004  --logging-config=config\logging.conf
+allure generate report\result20200502004 -o D:\software\02python2714\mypython\python-http-api\test_demo01\report\report20200502004
+
+
+仅Test_api001-api004调试成功
+nosetests -v testcase\test_api_case.py --with-allure --logdir=D:\software\02python2714\mypython\python-http-api\test_demo01\report\result20200502005  --logging-config=config\logging.conf
+allure generate report\result20200502005 -o D:\software\02python2714\mypython\python-http-api\test_demo01\report\report20200502005
+
+说明：Test_api006-009都需要运行服务端：D:\software\02python2714\mypython\flask\2020>python2 test12_token6.py
+
+仅Test_api007调试成功
+nosetests -v testcase\test_api_case.py --with-allure --logdir=D:\software\02python2714\mypython\python-http-api\test_demo01\report\result20200502006  --logging-config=config\logging.conf
+allure generate report\result20200502006 -o D:\software\02python2714\mypython\python-http-api\test_demo01\report\report20200502006
+
+仅Test_api007调试成功
+nosetests -v testcase\test_api_case.py --with-allure --logdir=D:\software\02python2714\mypython\python-http-api\test_demo01\report\result20200502007  --logging-config=config\logging.conf
+allure generate report\result20200502007 -o D:\software\02python2714\mypython\python-http-api\test_demo01\report\report20200502007
+
+仅Test_api008调试成功
+nosetests -v testcase\test_api_case.py --with-allure --logdir=D:\software\02python2714\mypython\python-http-api\test_demo01\report\result20200502008  --logging-config=config\logging.conf
+allure generate report\result20200502008 -o D:\software\02python2714\mypython\python-http-api\test_demo01\report\report20200502008
+
+仅Test_api009调试成功
+nosetests -v testcase\test_api_case.py --with-allure --logdir=D:\software\02python2714\mypython\python-http-api\test_demo01\report\result20200502009  --logging-config=config\logging.conf
+allure generate report\result20200502009 -o D:\software\02python2714\mypython\python-http-api\test_demo01\report\report20200502009
+
+
+调整sheet1-sheet9（sheet5暂时不调试）
+nosetests -v testcase\test_api_case.py --with-allure --logdir=D:\software\02python2714\mypython\python-http-api\test_demo01\report\result202005020010  --logging-config=config\logging.conf
+allure generate report\result202005020010 -o D:\software\02python2714\mypython\python-http-api\test_demo01\report\report202005020010
+
+sheet6-9代码优化
+D:\software\02python2714\mypython\python-http-api\test_demo01>
+nosetests -v testcase\test_api_case.py --with-allure --logdir=D:\software\02python2714\mypython\python-http-api\test_demo01\report\result202005020012  --logging-config=config\logging.conf
+allure generate report\result202005020012 -o D:\software\02python2714\mypython\python-http-api\test_demo01\report\report202005020012
+
+sheet6-9代码优化:日志
+D:\software\02python2714\mypython\python-http-api\test_demo01>
+nosetests -v testcase\test_api_case.py --with-allure --logdir=D:\software\02python2714\mypython\python-http-api\test_demo01\report\result202005020013 --logging-config=config\logging.conf
+allure generate report\result202005020013 -o D:\software\02python2714\mypython\python-http-api\test_demo01\report\report202005020013
+
+nosetests -v testcase\test_api_case.py --with-allure --logdir=D:\software\02python2714\mypython\python-http-api\test_demo01\report\result202005020014 --logging-config=config\logging.conf
+
+allure generate report\result202005020014 -o D:\software\02python2714\mypython\python-http-api\test_demo01\report\report202005020014
+
+cmd中执行代码，日志logger.info(msg=u'Test_api006接口开始测试...')包含中文就报错：Failure: IOError ([Errno 0] Error) ... ERROR
+解决方法：要设置窗口字符集:
+chcp 65001
+
+代码页 描述
+
+65001   UTF-8代码页
+
+950繁体中文
+
+936简体中文默认的GBK （cmd默认使用这个）
+
+437 MS-DOS美国英语
+
+问题2：
+-> logger.info(u'Test_api006接口开始测试...')
+(Pdb) n
+Traceback (most recent call last):
+  File "d:\software\02python2714\lib\logging\__init__.py", line 872, in emit
+    stream.write(ufs % msg)
+LookupError: unknown encoding: cp65001
+Logged from file test_api_case.py, line 332
+解决方法：
+test_api_case.py：将logger.info(u'Test_api006接口开始测试...')  修改为logger.info('Test_api006接口开始测试...')  
+
+最终解决方法：在代码中添加
+import sys
+reload(sys)
+sys.setdefaultencoding('utf8')
+另外一个方法：在logger.info(u'Test_api006接口开始测试...')之后使用settrace，不要在它前面使用settrace
+
+nosetests -v testcase\test_api_case.py --with-allure --logdir=D:\software\02python2714\mypython\python-http-api\test_demo01\report\result202005020015 --logging-config=config\logging.conf
+
+allure generate report\result202005020015 -o D:\software\02python2714\mypython\python-http-api\test_demo01\report\report202005020015
+
+捕获所有异常，并使用logging记录错误信息到日志中：
+nosetests -v testcase\test_api_case.py --with-allure --logdir=D:\software\02python2714\mypython\python-http-api\test_demo01\report\result202005020016 --logging-config=config\logging.conf
+
+allure generate report\result202005020016 -o D:\software\02python2714\mypython\python-http-api\test_demo01\report\report202005020016
+
+增加读取配置文件：
+nosetests -v testcase\test_api_case.py --with-allure --logdir=D:\software\02python2714\mypython\python-http-api\test_demo01\report\result202005020017 --logging-config=config\logging.conf
+
+allure generate report\result202005020017 -o D:\software\02python2714\mypython\python-http-api\test_demo01\report\report202005020017
+
+增加异常处理：每个.py文件都增加异常处理
+nosetests -v testcase\test_api_case.py --with-allure --logdir=D:\software\02python2714\mypython\python-http-api\test_demo01\report\result202005020018 --logging-config=config\logging.conf
+
+allure generate report\result202005020018 -o D:\software\02python2714\mypython\python-http-api\test_demo01\report\report202005020018
+
+request请求超时，重试；同时request_method_ok.py增加读取下面2个配置项
+request_timeout=5
+request_retry=3
+nosetests -v testcase\test_api_case.py --with-allure --logdir=D:\software\02python2714\mypython\python-http-api\test_demo01\report\result202005020019 --logging-config=config\logging.conf
+
+allure generate report\result202005020019 -o D:\software\02python2714\mypython\python-http-api\test_demo01\report\report202005020019
+
+D:\software\02python2714\mypython\python-http-api\test_demo01>
+nosetests -v testcase\test_api_case.py --with-allure --logdir=D:\software\02python2714\mypython\python-http-api\test_demo01\report\result202005020020 --logging-config=config\logging.conf
+
+allure generate report\result202005020020 -o D:\software\02python2714\mypython\python-http-api\test_demo01\report\report202005020020
+使用浏览器打开报告：
+allure open -h 127.0.0.1 -p 8083 D:\software\02python2714\mypython\python-http-api\test_demo01\report\report202005020020
+
+jenkins中执行：
+D:\software\02python2714\mypython\python-http-api\test_demo01>
+nosetests -v testcase\test_api_case.py --with-allure --logdir=D:\software\02python2714\mypython\python-http-api\test_demo01\report\result202005020021 --logging-config=config\logging.conf
+
+allure generate report\result202005020021 -o D:\software\02python2714\mypython\python-http-api\test_demo01\report\report202005020021
+
+allure generate D:\software\jenkins2.222.3\workspace\Test_api\result -o D:\software\jenkins2.222.3\workspace\Test_api\report
+
+allure open -h 127.0.0.1 -p 8083 D:\software\02python2714\mypython\python-http-api\test_demo01\report\report202005020020
+
+存在问题：
+D:\software\02python2714\mypython\python-http-api\test_demo01>exit 1 
+Build step 'Execute Windows batch command' marked build as failure
+[Test_api] $ D:\software\jenkins2.222.3\tools\ru.yandex.qatools.allure.jenkins.tools.AllureCommandlineInstallation\allure\bin\allure.bat generate -c -o D:\software\jenkins2.222.3\workspace\Test_api\allure-report
+allure-results does not exists
+Report successfully generated to D:\software\jenkins2.222.3\workspace\Test_api\allure-report
+Allure report was successfully generated.
+Creating artifact for the build.
+Artifact was added to the build.
+Finished: FAILURE
+
+
+allure generate Test_api\result -o \Test_api\report_hander
+
+
+sheet10调试：
+nosetests -v testcase\test_api_case.py --with-allure --logdir=D:\software\02python2714\mypython\python-http-api\test_demo01\report\result202005020030 --logging-config=config\logging.conf
+
+
+
+
+

@@ -1,0 +1,203 @@
+<ns0:test-suite xmlns:ns0="urn:model.allure.qatools.yandex.ru" start="1590171645349" stop="1590171645835">
+  <name>test_api_case</name>
+  <labels/>
+  <test-cases>
+    <test-case start="1590171645353" status="failed" stop="1590171645356">
+      <name>test_api_case.Test_api003.test_api003</name>
+      <failure>
+        <message>AssertionError: 1 !=2</message>
+        <stack-trace>Traceback (most recent call last):
+  File "d:\software\02python2714\lib\unittest\case.py", line 329, in run
+    testMethod()
+  File "d:\software\02python2714\lib\site-packages\nose\case.py", line 197, in runTest
+    self.test(*self.arg)
+  File "D:\software\02python2714\mypython\api_test_demo\api_test\testcase\test_api_case.py", line 269, in test_api003
+    assert_equal(1, 2, msg=u'1 !=2')  # 用例执行失败，错误信息会记录xml和html报告中
+  File "d:\software\02python2714\lib\unittest\case.py", line 513, in assertEqual
+    assertion_func(first, second, msg=msg)
+  File "d:\software\02python2714\lib\unittest\case.py", line 506, in _baseAssertEqual
+    raise self.failureException(msg)
+AssertionError: 1 !=2</stack-trace>
+      </failure>
+      <attachments/>
+      <labels/>
+      <steps/>
+    </test-case>
+    <test-case start="1590171645359" status="passed" stop="1590171645399">
+      <description>
+            用例描述：post方法，每条用例的描述
+            :param datas:
+            :return:
+            </description>
+      <name>test_api_case.Test_api005.test_api005_1</name>
+      <attachments/>
+      <labels/>
+      <steps/>
+    </test-case>
+    <test-case start="1590171645400" status="passed" stop="1590171645429">
+      <description>
+            用例描述：post方法，每条用例的描述
+            :param datas:
+            :return:
+            </description>
+      <name>test_api_case.Test_api005.test_api005_2</name>
+      <attachments/>
+      <labels/>
+      <steps/>
+    </test-case>
+    <test-case start="1590171645430" status="passed" stop="1590171645454">
+      <description>
+            用例描述：post方法，每条用例的描述
+            :param datas:
+            :return:
+            </description>
+      <name>test_api_case.Test_api005.test_api005_3</name>
+      <attachments/>
+      <labels/>
+      <steps/>
+    </test-case>
+    <test-case start="1590171645458" status="passed" stop="1590171645483">
+      <description>
+            用例描述：post方法，每条用例的描述
+            :param datas:
+            :return:
+            </description>
+      <name>test_api_case.Test_api006.test_api006_1</name>
+      <attachments/>
+      <labels/>
+      <steps/>
+    </test-case>
+    <test-case start="1590171645484" status="passed" stop="1590171645515">
+      <description>
+            用例描述：post方法，每条用例的描述
+            :param datas:
+            :return:
+            </description>
+      <name>test_api_case.Test_api006.test_api006_2</name>
+      <attachments/>
+      <labels/>
+      <steps/>
+    </test-case>
+    <test-case start="1590171645515" status="passed" stop="1590171645548">
+      <description>
+            用例描述：post方法，每条用例的描述
+            :param datas:
+            :return:
+            </description>
+      <name>test_api_case.Test_api006.test_api006_3</name>
+      <attachments/>
+      <labels/>
+      <steps/>
+    </test-case>
+    <test-case start="1590171645550" status="passed" stop="1590171645574">
+      <description>
+            用例描述：post方法，每条用例的描述
+            :param datas:
+            :return:
+            </description>
+      <name>test_api_case.Test_api007.test_api007_1</name>
+      <attachments/>
+      <labels/>
+      <steps/>
+    </test-case>
+    <test-case start="1590171645575" status="passed" stop="1590171645606">
+      <description>
+            用例描述：post方法，每条用例的描述
+            :param datas:
+            :return:
+            </description>
+      <name>test_api_case.Test_api007.test_api007_2</name>
+      <attachments/>
+      <labels/>
+      <steps/>
+    </test-case>
+    <test-case start="1590171645606" status="passed" stop="1590171645633">
+      <description>
+            用例描述：post方法，每条用例的描述
+            :param datas:
+            :return:
+            </description>
+      <name>test_api_case.Test_api007.test_api007_3</name>
+      <attachments/>
+      <labels/>
+      <steps/>
+    </test-case>
+    <test-case start="1590171645636" status="passed" stop="1590171645657">
+      <description>
+            用例描述：post方法，每条用例的描述
+            :param datas:
+            :return:
+            </description>
+      <name>test_api_case.Test_api008.test_api008_1</name>
+      <attachments/>
+      <labels/>
+      <steps/>
+    </test-case>
+    <test-case start="1590171645658" status="passed" stop="1590171645686">
+      <description>
+            用例描述：post方法，每条用例的描述
+            :param datas:
+            :return:
+            </description>
+      <name>test_api_case.Test_api008.test_api008_2</name>
+      <attachments/>
+      <labels/>
+      <steps/>
+    </test-case>
+    <test-case start="1590171645687" status="passed" stop="1590171645714">
+      <description>
+            用例描述：post方法，每条用例的描述
+            :param datas:
+            :return:
+            </description>
+      <name>test_api_case.Test_api008.test_api008_3</name>
+      <attachments/>
+      <labels/>
+      <steps/>
+    </test-case>
+    <test-case start="1590171645718" status="passed" stop="1590171645745">
+      <description>
+            用例描述：post方法，每条用例的描述
+            :param datas:
+            :return:
+            </description>
+      <name>test_api_case.Test_api009.test_api009_1</name>
+      <attachments/>
+      <labels/>
+      <steps/>
+    </test-case>
+    <test-case start="1590171645745" status="passed" stop="1590171645770">
+      <description>
+            用例描述：post方法，每条用例的描述
+            :param datas:
+            :return:
+            </description>
+      <name>test_api_case.Test_api009.test_api009_2</name>
+      <attachments/>
+      <labels/>
+      <steps/>
+    </test-case>
+    <test-case start="1590171645771" status="passed" stop="1590171645798">
+      <description>
+            用例描述：post方法，每条用例的描述
+            :param datas:
+            :return:
+            </description>
+      <name>test_api_case.Test_api009.test_api009_3</name>
+      <attachments/>
+      <labels/>
+      <steps/>
+    </test-case>
+    <test-case start="1590171645800" status="passed" stop="1590171645833">
+      <description>
+            用例描述：post方法，每条用例的描述
+            :param datas:
+            :return:
+            </description>
+      <name>test_api_case.Test_api009.test_api009_4</name>
+      <attachments/>
+      <labels/>
+      <steps/>
+    </test-case>
+  </test-cases>
+</ns0:test-suite>

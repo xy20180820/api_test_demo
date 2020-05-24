@@ -1,0 +1,13 @@
+nose支持allure：
+https://www.cnblogs.com/landhu/p/7126039.html
+pip install nose-allure-plugin
+
+
+https://blog.csdn.net/yu1014745867/article/details/85120334
+
+注：直接用chrome浏览器打开报告，报告可能会是空白页面。
+解决办法：
+1、在pycharm中右击index.html选择打开方式Open in Browser就可以了。
+2、使用Firefox直接打开index.html。
+
+三、定制报告

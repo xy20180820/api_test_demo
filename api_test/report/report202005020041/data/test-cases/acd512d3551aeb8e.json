@@ -1,0 +1,51 @@
+{
+  "uid" : "acd512d3551aeb8e",
+  "name" : "test_api_case.Test_api003.test_api003",
+  "fullName" : "test_api_case.test_api_case.Test_api003.test_api003",
+  "historyId" : "d0c9aaebc5e9b435bb2e8a5e70361f79",
+  "time" : {
+    "start" : 1590171645353,
+    "stop" : 1590171645356,
+    "duration" : 3
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "failed",
+  "statusMessage" : "AssertionError: 1 !=2",
+  "statusTrace" : "Traceback (most recent call last):\n  File \"d:\\software\\02python2714\\lib\\unittest\\case.py\", line 329, in run\n    testMethod()\n  File \"d:\\software\\02python2714\\lib\\site-packages\\nose\\case.py\", line 197, in runTest\n    self.test(*self.arg)\n  File \"D:\\software\\02python2714\\mypython\\api_test_demo\\api_test\\testcase\\test_api_case.py\", line 269, in test_api003\n    assert_equal(1, 2, msg=u'1 !=2')  # 用例执行失败，错误信息会记录xml和html报告中\n  File \"d:\\software\\02python2714\\lib\\unittest\\case.py\", line 513, in assertEqual\n    assertion_func(first, second, msg=msg)\n  File \"d:\\software\\02python2714\\lib\\unittest\\case.py\", line 506, in _baseAssertEqual\n    raise self.failureException(msg)\nAssertionError: 1 !=2",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "test_api_case"
+  }, {
+    "name" : "testClass",
+    "value" : "test_api_case"
+  }, {
+    "name" : "testMethod",
+    "value" : "test_api_case.Test_api003.test_api003"
+  }, {
+    "name" : "package",
+    "value" : "test_api_case"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "acd512d3551aeb8e.json",
+  "parameterValues" : [ ]
+}

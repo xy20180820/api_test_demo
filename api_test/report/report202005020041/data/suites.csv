@@ -1,0 +1,82 @@
+"Status","Name","Duration in ms","Description"
+"passed","test_api_case.test_api_case.Test_api007.test_api007_1","24","
+            用例描述：post方法，每条用例的描述
+            :param datas:
+            :return:
+            "
+"passed","test_api_case.test_api_case.Test_api007.test_api007_3","27","
+            用例描述：post方法，每条用例的描述
+            :param datas:
+            :return:
+            "
+"passed","test_api_case.test_api_case.Test_api006.test_api006_1","25","
+            用例描述：post方法，每条用例的描述
+            :param datas:
+            :return:
+            "
+"passed","test_api_case.test_api_case.Test_api007.test_api007_2","31","
+            用例描述：post方法，每条用例的描述
+            :param datas:
+            :return:
+            "
+"passed","test_api_case.test_api_case.Test_api009.test_api009_1","27","
+            用例描述：post方法，每条用例的描述
+            :param datas:
+            :return:
+            "
+"failed","test_api_case.test_api_case.Test_api003.test_api003","3",""
+"passed","test_api_case.test_api_case.Test_api008.test_api008_1","21","
+            用例描述：post方法，每条用例的描述
+            :param datas:
+            :return:
+            "
+"passed","test_api_case.test_api_case.Test_api008.test_api008_2","28","
+            用例描述：post方法，每条用例的描述
+            :param datas:
+            :return:
+            "
+"passed","test_api_case.test_api_case.Test_api005.test_api005_1","40","
+            用例描述：post方法，每条用例的描述
+            :param datas:
+            :return:
+            "
+"passed","test_api_case.test_api_case.Test_api009.test_api009_2","25","
+            用例描述：post方法，每条用例的描述
+            :param datas:
+            :return:
+            "
+"passed","test_api_case.test_api_case.Test_api009.test_api009_4","33","
+            用例描述：post方法，每条用例的描述
+            :param datas:
+            :return:
+            "
+"passed","test_api_case.test_api_case.Test_api005.test_api005_3","24","
+            用例描述：post方法，每条用例的描述
+            :param datas:
+            :return:
+            "
+"passed","test_api_case.test_api_case.Test_api005.test_api005_2","29","
+            用例描述：post方法，每条用例的描述
+            :param datas:
+            :return:
+            "
+"passed","test_api_case.test_api_case.Test_api008.test_api008_3","27","
+            用例描述：post方法，每条用例的描述
+            :param datas:
+            :return:
+            "
+"passed","test_api_case.test_api_case.Test_api009.test_api009_3","27","
+            用例描述：post方法，每条用例的描述
+            :param datas:
+            :return:
+            "
+"passed","test_api_case.test_api_case.Test_api006.test_api006_3","33","
+            用例描述：post方法，每条用例的描述
+            :param datas:
+            :return:
+            "
+"passed","test_api_case.test_api_case.Test_api006.test_api006_2","31","
+            用例描述：post方法，每条用例的描述
+            :param datas:
+            :return:
+            "

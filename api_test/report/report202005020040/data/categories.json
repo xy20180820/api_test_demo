@@ -1,0 +1,73 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Test defects",
+    "children" : [ {
+      "name" : "TypeError: 'NoneType' object is not iterable\n-------------------- >> begin captured stdout << ---------------------\nsetup...\n\n--------------------- >> end captured stdout << ----------------------",
+      "children" : [ {
+        "name" : "test_api_case.Test_api0010.test_api0010_1",
+        "uid" : "e6a13ca210217d96",
+        "parentUid" : "8ff2eeb9ff3b6c5de6a21a6172a25e98",
+        "status" : "broken",
+        "time" : {
+          "start" : 1590157140109,
+          "stop" : 1590157155362,
+          "duration" : 15253
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "8ff2eeb9ff3b6c5de6a21a6172a25e98"
+    } ],
+    "uid" : "bdbf199525818fae7a8651db9eafe741"
+  }, {
+    "name" : "Product defects",
+    "children" : [ {
+      "name" : "AssertionError: 请求错误402\n-------------------- >> begin captured stdout << ---------------------\nsetup...\n402\n<bound method Response.json of <Response [402]>>\n{\n  \"data\": {\n    \"msg\": \"用户名不存在\"\n  }\n}\n\n\n--------------------- >> end captured stdout << ----------------------",
+      "children" : [ {
+        "name" : "test_api_case.Test_api0010.test_api0010_2",
+        "uid" : "93ae5d59116a585c",
+        "parentUid" : "ad172a6c47d1d7d988b8491b1e98694b",
+        "status" : "failed",
+        "time" : {
+          "start" : 1590157155363,
+          "stop" : 1590157155968,
+          "duration" : 605
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_api_case.Test_api006.test_api006_4",
+        "uid" : "f15038e79e71cd95",
+        "parentUid" : "ad172a6c47d1d7d988b8491b1e98694b",
+        "status" : "failed",
+        "time" : {
+          "start" : 1590157156346,
+          "stop" : 1590157156423,
+          "duration" : 77
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "ad172a6c47d1d7d988b8491b1e98694b"
+    }, {
+      "name" : "AssertionError: 1 !=2",
+      "children" : [ {
+        "name" : "test_api_case.Test_api003.test_api003",
+        "uid" : "50708df61a8fac69",
+        "parentUid" : "6e9defff9fca0549e486d515d01b790d",
+        "status" : "failed",
+        "time" : {
+          "start" : 1590157156163,
+          "stop" : 1590157156168,
+          "duration" : 5
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "6e9defff9fca0549e486d515d01b790d"
+    } ],
+    "uid" : "8fb3a91ba5aaf9de24cc8a92edc82b5d"
+  } ]
+}

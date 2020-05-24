@@ -1,0 +1,171 @@
+[ {
+  "uid" : "c515b23f05b7133a",
+  "name" : "test_api_case.Test_api006.test_api006_2",
+  "time" : {
+    "start" : 1590171645484,
+    "stop" : 1590171645515,
+    "duration" : 31
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "99a4d289526a9aee",
+  "name" : "test_api_case.Test_api005.test_api005_2",
+  "time" : {
+    "start" : 1590171645400,
+    "stop" : 1590171645429,
+    "duration" : 29
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "32b1a40b9c9e4f3f",
+  "name" : "test_api_case.Test_api005.test_api005_1",
+  "time" : {
+    "start" : 1590171645359,
+    "stop" : 1590171645399,
+    "duration" : 40
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f070b16662ce3857",
+  "name" : "test_api_case.Test_api006.test_api006_3",
+  "time" : {
+    "start" : 1590171645515,
+    "stop" : 1590171645548,
+    "duration" : 33
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3e8d3f02bbf4f802",
+  "name" : "test_api_case.Test_api005.test_api005_3",
+  "time" : {
+    "start" : 1590171645430,
+    "stop" : 1590171645454,
+    "duration" : 24
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8fd0b9a290aed785",
+  "name" : "test_api_case.Test_api009.test_api009_2",
+  "time" : {
+    "start" : 1590171645745,
+    "stop" : 1590171645770,
+    "duration" : 25
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5ecf90bef1ed1b3f",
+  "name" : "test_api_case.Test_api008.test_api008_2",
+  "time" : {
+    "start" : 1590171645658,
+    "stop" : 1590171645686,
+    "duration" : 28
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "db2d04cb1cebaa3a",
+  "name" : "test_api_case.Test_api008.test_api008_3",
+  "time" : {
+    "start" : 1590171645687,
+    "stop" : 1590171645714,
+    "duration" : 27
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4262fd2ea1ddc2cc",
+  "name" : "test_api_case.Test_api009.test_api009_1",
+  "time" : {
+    "start" : 1590171645718,
+    "stop" : 1590171645745,
+    "duration" : 27
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e24d756a0521598f",
+  "name" : "test_api_case.Test_api009.test_api009_3",
+  "time" : {
+    "start" : 1590171645771,
+    "stop" : 1590171645798,
+    "duration" : 27
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "17afb8b385a2a431",
+  "name" : "test_api_case.Test_api007.test_api007_2",
+  "time" : {
+    "start" : 1590171645575,
+    "stop" : 1590171645606,
+    "duration" : 31
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b47016c6a5de958",
+  "name" : "test_api_case.Test_api006.test_api006_1",
+  "time" : {
+    "start" : 1590171645458,
+    "stop" : 1590171645483,
+    "duration" : 25
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "24b3a0586c04e60d",
+  "name" : "test_api_case.Test_api007.test_api007_1",
+  "time" : {
+    "start" : 1590171645550,
+    "stop" : 1590171645574,
+    "duration" : 24
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e018f2814271e6fd",
+  "name" : "test_api_case.Test_api009.test_api009_4",
+  "time" : {
+    "start" : 1590171645800,
+    "stop" : 1590171645833,
+    "duration" : 33
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b39739720e763118",
+  "name" : "test_api_case.Test_api008.test_api008_1",
+  "time" : {
+    "start" : 1590171645636,
+    "stop" : 1590171645657,
+    "duration" : 21
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "acd512d3551aeb8e",
+  "name" : "test_api_case.Test_api003.test_api003",
+  "time" : {
+    "start" : 1590171645353,
+    "stop" : 1590171645356,
+    "duration" : 3
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "74be6beb13f58084",
+  "name" : "test_api_case.Test_api007.test_api007_3",
+  "time" : {
+    "start" : 1590171645606,
+    "stop" : 1590171645633,
+    "duration" : 27
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

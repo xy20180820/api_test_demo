@@ -1,0 +1,483 @@
+2020-05-23 02:20:44,855 nose.config [INFO] config.py[line:334] Ignoring files matching ['^\\.', '^_', '^setup\\.py$']
+2020-05-23 02:20:45,145 test_api_case [INFO] test_api_case.py[line:324] Test_api005接口读取Sheet5数据...
+2020-05-23 02:20:45,147 common.open_execl_xlrd_ok [INFO] open_execl_xlrd_ok.py[line:33] 开始sheet表：Sheet5
+2020-05-23 02:20:45,147 common.open_execl_xlrd_ok [INFO] open_execl_xlrd_ok.py[line:45] 获取sheet表：Sheet5的数据
+2020-05-23 02:20:45,191 common.open_execl_xlrd_ok [INFO] open_execl_xlrd_ok.py[line:71] 读取sheet表：Sheet5第1行的数据
+2020-05-23 02:20:45,193 common.open_execl_xlrd_ok [INFO] open_execl_xlrd_ok.py[line:71] 读取sheet表：Sheet5第2行的数据
+2020-05-23 02:20:45,197 common.open_execl_xlrd_ok [INFO] open_execl_xlrd_ok.py[line:71] 读取sheet表：Sheet5第3行的数据
+2020-05-23 02:20:45,197 test_api_case [INFO] test_api_case.py[line:383] Test_api006接口读取Sheet6数据...
+2020-05-23 02:20:45,198 common.open_execl_xlrd_ok [INFO] open_execl_xlrd_ok.py[line:33] 开始sheet表：Sheet6
+2020-05-23 02:20:45,198 common.open_execl_xlrd_ok [INFO] open_execl_xlrd_ok.py[line:45] 获取sheet表：Sheet6的数据
+2020-05-23 02:20:45,230 common.open_execl_xlrd_ok [INFO] open_execl_xlrd_ok.py[line:71] 读取sheet表：Sheet6第1行的数据
+2020-05-23 02:20:45,233 common.open_execl_xlrd_ok [INFO] open_execl_xlrd_ok.py[line:71] 读取sheet表：Sheet6第2行的数据
+2020-05-23 02:20:45,233 common.open_execl_xlrd_ok [INFO] open_execl_xlrd_ok.py[line:71] 读取sheet表：Sheet6第3行的数据
+2020-05-23 02:20:45,234 test_api_case [INFO] test_api_case.py[line:439] Test_api007接口读取Sheet7数据...
+2020-05-23 02:20:45,236 common.open_execl_xlrd_ok [INFO] open_execl_xlrd_ok.py[line:33] 开始sheet表：Sheet8
+2020-05-23 02:20:45,236 common.open_execl_xlrd_ok [INFO] open_execl_xlrd_ok.py[line:45] 获取sheet表：Sheet8的数据
+2020-05-23 02:20:45,267 common.open_execl_xlrd_ok [INFO] open_execl_xlrd_ok.py[line:71] 读取sheet表：Sheet8第1行的数据
+2020-05-23 02:20:45,269 common.open_execl_xlrd_ok [INFO] open_execl_xlrd_ok.py[line:71] 读取sheet表：Sheet8第2行的数据
+2020-05-23 02:20:45,269 common.open_execl_xlrd_ok [INFO] open_execl_xlrd_ok.py[line:71] 读取sheet表：Sheet8第3行的数据
+2020-05-23 02:20:45,270 test_api_case [INFO] test_api_case.py[line:498] Test_api008接口读取Sheet8数据...
+2020-05-23 02:20:45,272 common.open_execl_xlrd_ok [INFO] open_execl_xlrd_ok.py[line:33] 开始sheet表：Sheet8
+2020-05-23 02:20:45,273 common.open_execl_xlrd_ok [INFO] open_execl_xlrd_ok.py[line:45] 获取sheet表：Sheet8的数据
+2020-05-23 02:20:45,303 common.open_execl_xlrd_ok [INFO] open_execl_xlrd_ok.py[line:71] 读取sheet表：Sheet8第1行的数据
+2020-05-23 02:20:45,305 common.open_execl_xlrd_ok [INFO] open_execl_xlrd_ok.py[line:71] 读取sheet表：Sheet8第2行的数据
+2020-05-23 02:20:45,306 common.open_execl_xlrd_ok [INFO] open_execl_xlrd_ok.py[line:71] 读取sheet表：Sheet8第3行的数据
+2020-05-23 02:20:45,308 test_api_case [INFO] test_api_case.py[line:559] Test_api009接口读取Sheet9数据...
+2020-05-23 02:20:45,309 common.open_execl_xlrd_ok [INFO] open_execl_xlrd_ok.py[line:33] 开始sheet表：Sheet9
+2020-05-23 02:20:45,309 common.open_execl_xlrd_ok [INFO] open_execl_xlrd_ok.py[line:45] 获取sheet表：Sheet9的数据
+2020-05-23 02:20:45,339 common.open_execl_xlrd_ok [INFO] open_execl_xlrd_ok.py[line:71] 读取sheet表：Sheet9第1行的数据
+2020-05-23 02:20:45,342 common.open_execl_xlrd_ok [INFO] open_execl_xlrd_ok.py[line:71] 读取sheet表：Sheet9第2行的数据
+2020-05-23 02:20:45,342 common.open_execl_xlrd_ok [INFO] open_execl_xlrd_ok.py[line:71] 读取sheet表：Sheet9第3行的数据
+2020-05-23 02:20:45,345 common.open_execl_xlrd_ok [INFO] open_execl_xlrd_ok.py[line:71] 读取sheet表：Sheet9第4行的数据
+2020-05-23 02:20:45,348 test_api_case [INFO] test_api_case.py[line:240] Test_api002:类开始...
+2020-05-23 02:20:45,349 test_api_case [INFO] test_api_case.py[line:245] 用例开始...
+2020-05-23 02:20:45,351 test_api_case [INFO] test_api_case.py[line:250] 跳过用例：test_api002
+2020-05-23 02:20:45,351 test_api_case [INFO] test_api_case.py[line:243] Test_api002:类结束...
+2020-05-23 02:20:45,352 test_api_case [INFO] test_api_case.py[line:257] Test_api003:类开始...
+2020-05-23 02:20:45,354 test_api_case [INFO] test_api_case.py[line:262] 用例开始...
+2020-05-23 02:20:45,354 test_api_case [INFO] test_api_case.py[line:268] 失败用例：test_api003
+2020-05-23 02:20:45,355 test_api_case [INFO] test_api_case.py[line:260] Test_api003:类结束...
+2020-05-23 02:20:45,357 test_api_case [INFO] test_api_case.py[line:333] Test_api005接口测试开始...
+2020-05-23 02:20:45,358 urllib3.util.retry [DEBUG] retry.py[line:229] Converted retries value: u'3' -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2020-05-23 02:20:45,358 urllib3.util.retry [DEBUG] retry.py[line:229] Converted retries value: u'3' -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2020-05-23 02:20:45,359 test_api_case [INFO] test_api_case.py[line:359] Test_api005接口---test_api005用例开始...
+2020-05-23 02:20:45,362 urllib3.util.retry [DEBUG] retry.py[line:229] Converted retries value: u'3' -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2020-05-23 02:20:45,362 urllib3.util.retry [DEBUG] retry.py[line:229] Converted retries value: u'3' -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2020-05-23 02:20:45,364 urllib3.util.retry [DEBUG] retry.py[line:229] Converted retries value: u'3' -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2020-05-23 02:20:45,364 urllib3.util.retry [DEBUG] retry.py[line:229] Converted retries value: u'3' -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2020-05-23 02:20:45,365 request.request_method [INFO] request_method.py[line:139] 调用request_post_cookies_data
+2020-05-23 02:20:45,368 urllib3.connectionpool [DEBUG] connectionpool.py[line:225] Starting new HTTP connection (1): 127.0.0.1:5000
+2020-05-23 02:20:45,388 urllib3.connectionpool [DEBUG] connectionpool.py[line:437] http://127.0.0.1:5000 "POST /login HTTP/1.1" 200 327
+2020-05-23 02:20:45,391 urllib3.connectionpool [DEBUG] connectionpool.py[line:225] Starting new HTTP connection (1): 127.0.0.1:5000
+2020-05-23 02:20:45,397 urllib3.connectionpool [DEBUG] connectionpool.py[line:437] http://127.0.0.1:5000 "POST /api/1.0/add_user HTTP/1.1" 200 208
+2020-05-23 02:20:45,398 request.request_method [INFO] request_method.py[line:160] res_code:200;res_result:{u'data': {u'admin': {u'passwd': u'admin', u'age': 18, u'tel': u'15899870001'}, u'lily': {u'passwd': u'123456', u'age': u'16', u'tel': u'15899881000'}}}
+2020-05-23 02:20:45,401 test_api_case [INFO] test_api_case.py[line:359] Test_api005接口---test_api005用例开始...
+2020-05-23 02:20:45,401 urllib3.util.retry [DEBUG] retry.py[line:229] Converted retries value: u'3' -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2020-05-23 02:20:45,401 urllib3.util.retry [DEBUG] retry.py[line:229] Converted retries value: u'3' -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2020-05-23 02:20:45,403 urllib3.util.retry [DEBUG] retry.py[line:229] Converted retries value: u'3' -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2020-05-23 02:20:45,403 urllib3.util.retry [DEBUG] retry.py[line:229] Converted retries value: u'3' -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2020-05-23 02:20:45,404 request.request_method [INFO] request_method.py[line:139] 调用request_post_cookies_data
+2020-05-23 02:20:45,405 urllib3.connectionpool [DEBUG] connectionpool.py[line:225] Starting new HTTP connection (1): 127.0.0.1:5000
+2020-05-23 02:20:45,418 urllib3.connectionpool [DEBUG] connectionpool.py[line:437] http://127.0.0.1:5000 "POST /login HTTP/1.1" 200 327
+2020-05-23 02:20:45,421 urllib3.connectionpool [DEBUG] connectionpool.py[line:225] Starting new HTTP connection (1): 127.0.0.1:5000
+2020-05-23 02:20:45,426 urllib3.connectionpool [DEBUG] connectionpool.py[line:437] http://127.0.0.1:5000 "POST /api/1.0/add_user HTTP/1.1" 401 52
+2020-05-23 02:20:45,427 request.request_method [INFO] request_method.py[line:160] res_code:401;res_result:{u'data': {u'msg': u'\u8bf7\u6c42\u53c2\u6570\u4e3a\u7a7a'}}
+2020-05-23 02:20:45,430 test_api_case [INFO] test_api_case.py[line:359] Test_api005接口---test_api005用例开始...
+2020-05-23 02:20:45,430 urllib3.util.retry [DEBUG] retry.py[line:229] Converted retries value: u'3' -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2020-05-23 02:20:45,431 urllib3.util.retry [DEBUG] retry.py[line:229] Converted retries value: u'3' -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2020-05-23 02:20:45,431 urllib3.util.retry [DEBUG] retry.py[line:229] Converted retries value: u'3' -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2020-05-23 02:20:45,433 urllib3.util.retry [DEBUG] retry.py[line:229] Converted retries value: u'3' -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2020-05-23 02:20:45,433 request.request_method [INFO] request_method.py[line:139] 调用request_post_cookies_data
+2020-05-23 02:20:45,434 urllib3.connectionpool [DEBUG] connectionpool.py[line:225] Starting new HTTP connection (1): 127.0.0.1:5000
+2020-05-23 02:20:45,444 urllib3.connectionpool [DEBUG] connectionpool.py[line:437] http://127.0.0.1:5000 "POST /login HTTP/1.1" 200 327
+2020-05-23 02:20:45,447 urllib3.connectionpool [DEBUG] connectionpool.py[line:225] Starting new HTTP connection (1): 127.0.0.1:5000
+2020-05-23 02:20:45,451 urllib3.connectionpool [DEBUG] connectionpool.py[line:437] http://127.0.0.1:5000 "POST /api/1.0/add_user HTTP/1.1" 402 58
+2020-05-23 02:20:45,453 request.request_method [INFO] request_method.py[line:160] res_code:402;res_result:{u'data': {u'msg': u'\u7528\u6237\u540d\u6216\u5bc6\u7801\u4e3a\u7a7a'}}
+2020-05-23 02:20:45,454 test_api_case [INFO] test_api_case.py[line:342] Test_api005接口测试结束...
+2020-05-23 02:20:45,456 test_api_case [INFO] test_api_case.py[line:389] Test_api006接口测试开始...
+2020-05-23 02:20:45,457 urllib3.util.retry [DEBUG] retry.py[line:229] Converted retries value: u'3' -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2020-05-23 02:20:45,457 urllib3.util.retry [DEBUG] retry.py[line:229] Converted retries value: u'3' -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2020-05-23 02:20:45,459 test_api_case [INFO] test_api_case.py[line:418] Test_api006接口用例test_api006开始测试...
+2020-05-23 02:20:45,460 urllib3.util.retry [DEBUG] retry.py[line:229] Converted retries value: u'3' -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2020-05-23 02:20:45,460 urllib3.util.retry [DEBUG] retry.py[line:229] Converted retries value: u'3' -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2020-05-23 02:20:45,461 urllib3.util.retry [DEBUG] retry.py[line:229] Converted retries value: u'3' -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2020-05-23 02:20:45,461 urllib3.util.retry [DEBUG] retry.py[line:229] Converted retries value: u'3' -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2020-05-23 02:20:45,461 request.request_method [INFO] request_method.py[line:175] 调用request_post_cookies_json
+2020-05-23 02:20:45,464 urllib3.connectionpool [DEBUG] connectionpool.py[line:225] Starting new HTTP connection (1): 127.0.0.1:5000
+2020-05-23 02:20:45,471 urllib3.connectionpool [DEBUG] connectionpool.py[line:437] http://127.0.0.1:5000 "POST /login HTTP/1.1" 200 327
+2020-05-23 02:20:45,476 urllib3.connectionpool [DEBUG] connectionpool.py[line:225] Starting new HTTP connection (1): 127.0.0.1:5000
+2020-05-23 02:20:45,480 urllib3.connectionpool [DEBUG] connectionpool.py[line:437] http://127.0.0.1:5000 "POST /api/1.0/add_user2 HTTP/1.1" 200 300
+2020-05-23 02:20:45,482 request.request_method [INFO] request_method.py[line:200] request_post_cookies_json返回res_code，res_result
+2020-05-23 02:20:45,483 test_api_case [INFO] test_api_case.py[line:418] Test_api006接口用例test_api006开始测试...
+2020-05-23 02:20:45,486 urllib3.util.retry [DEBUG] retry.py[line:229] Converted retries value: u'3' -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2020-05-23 02:20:45,486 urllib3.util.retry [DEBUG] retry.py[line:229] Converted retries value: u'3' -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2020-05-23 02:20:45,486 urllib3.util.retry [DEBUG] retry.py[line:229] Converted retries value: u'3' -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2020-05-23 02:20:45,486 urllib3.util.retry [DEBUG] retry.py[line:229] Converted retries value: u'3' -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2020-05-23 02:20:45,486 request.request_method [INFO] request_method.py[line:175] 调用request_post_cookies_json
+2020-05-23 02:20:45,489 urllib3.connectionpool [DEBUG] connectionpool.py[line:225] Starting new HTTP connection (1): 127.0.0.1:5000
+2020-05-23 02:20:45,500 urllib3.connectionpool [DEBUG] connectionpool.py[line:437] http://127.0.0.1:5000 "POST /login HTTP/1.1" 200 327
+2020-05-23 02:20:45,503 urllib3.connectionpool [DEBUG] connectionpool.py[line:225] Starting new HTTP connection (1): 127.0.0.1:5000
+2020-05-23 02:20:45,506 urllib3.connectionpool [DEBUG] connectionpool.py[line:437] http://127.0.0.1:5000 "POST /api/1.0/add_user2 HTTP/1.1" 401 52
+2020-05-23 02:20:45,509 chardet.charsetprober [DEBUG] charsetgroupprober.py[line:100] utf-8  confidence = 0.99
+2020-05-23 02:20:45,509 chardet.charsetprober [DEBUG] charsetgroupprober.py[line:100] SHIFT_JIS Japanese confidence = 0.01
+2020-05-23 02:20:45,509 chardet.charsetprober [DEBUG] charsetgroupprober.py[line:100] EUC-JP Japanese confidence = 0.01
+2020-05-23 02:20:45,510 chardet.charsetprober [DEBUG] charsetgroupprober.py[line:100] GB2312 Chinese confidence = 0.01
+2020-05-23 02:20:45,510 chardet.charsetprober [DEBUG] charsetgroupprober.py[line:100] EUC-KR Korean confidence = 0.01
+2020-05-23 02:20:45,510 chardet.charsetprober [DEBUG] charsetgroupprober.py[line:100] CP949 Korean confidence = 0.01
+2020-05-23 02:20:45,510 chardet.charsetprober [DEBUG] charsetgroupprober.py[line:100] Big5 Chinese confidence = 0.01
+2020-05-23 02:20:45,510 chardet.charsetprober [DEBUG] charsetgroupprober.py[line:100] EUC-TW Taiwan confidence = 0.01
+2020-05-23 02:20:45,510 chardet.charsetprober [DEBUG] charsetgroupprober.py[line:100] windows-1251 Russian confidence = 0.01
+2020-05-23 02:20:45,510 chardet.charsetprober [DEBUG] charsetgroupprober.py[line:100] KOI8-R Russian confidence = 0.01
+2020-05-23 02:20:45,510 chardet.charsetprober [DEBUG] charsetgroupprober.py[line:100] ISO-8859-5 Russian confidence = 0.0
+2020-05-23 02:20:45,512 chardet.charsetprober [DEBUG] charsetgroupprober.py[line:100] MacCyrillic Russian confidence = 0.113773292379
+2020-05-23 02:20:45,512 chardet.charsetprober [DEBUG] charsetgroupprober.py[line:100] IBM866 Russian confidence = 0.0
+2020-05-23 02:20:45,512 chardet.charsetprober [DEBUG] charsetgroupprober.py[line:100] IBM855 Russian confidence = 0.0
+2020-05-23 02:20:45,512 chardet.charsetprober [DEBUG] charsetgroupprober.py[line:100] ISO-8859-7 Greek confidence = 0.0
+2020-05-23 02:20:45,512 chardet.charsetprober [DEBUG] charsetgroupprober.py[line:100] windows-1253 Greek confidence = 0.0
+2020-05-23 02:20:45,513 chardet.charsetprober [DEBUG] charsetgroupprober.py[line:100] ISO-8859-5 Bulgairan confidence = 0.0
+2020-05-23 02:20:45,513 chardet.charsetprober [DEBUG] charsetgroupprober.py[line:100] windows-1251 Bulgarian confidence = 0.0
+2020-05-23 02:20:45,513 chardet.charsetprober [DEBUG] charsetgroupprober.py[line:100] TIS-620 Thai confidence = 0.0779612626078
+2020-05-23 02:20:45,513 chardet.charsetprober [DEBUG] charsetgroupprober.py[line:100] ISO-8859-9 Turkish confidence = 0.29681847695
+2020-05-23 02:20:45,513 chardet.charsetprober [DEBUG] charsetgroupprober.py[line:100] windows-1255 Hebrew confidence = 0.0
+2020-05-23 02:20:45,513 chardet.charsetprober [DEBUG] charsetgroupprober.py[line:100] windows-1255 Hebrew confidence = 0.01
+2020-05-23 02:20:45,513 chardet.charsetprober [DEBUG] charsetgroupprober.py[line:100] windows-1255 Hebrew confidence = 0.01
+2020-05-23 02:20:45,513 chardet.charsetprober [DEBUG] charsetgroupprober.py[line:100] utf-8  confidence = 0.99
+2020-05-23 02:20:45,513 chardet.charsetprober [DEBUG] charsetgroupprober.py[line:100] SHIFT_JIS Japanese confidence = 0.01
+2020-05-23 02:20:45,513 chardet.charsetprober [DEBUG] charsetgroupprober.py[line:100] EUC-JP Japanese confidence = 0.01
+2020-05-23 02:20:45,513 chardet.charsetprober [DEBUG] charsetgroupprober.py[line:100] GB2312 Chinese confidence = 0.01
+2020-05-23 02:20:45,513 chardet.charsetprober [DEBUG] charsetgroupprober.py[line:100] EUC-KR Korean confidence = 0.01
+2020-05-23 02:20:45,513 chardet.charsetprober [DEBUG] charsetgroupprober.py[line:100] CP949 Korean confidence = 0.01
+2020-05-23 02:20:45,513 chardet.charsetprober [DEBUG] charsetgroupprober.py[line:100] Big5 Chinese confidence = 0.01
+2020-05-23 02:20:45,513 chardet.charsetprober [DEBUG] charsetgroupprober.py[line:100] EUC-TW Taiwan confidence = 0.01
+2020-05-23 02:20:45,513 request.request_method [INFO] request_method.py[line:200] request_post_cookies_json返回res_code，res_result
+2020-05-23 02:20:45,515 test_api_case [INFO] test_api_case.py[line:418] Test_api006接口用例test_api006开始测试...
+2020-05-23 02:20:45,517 urllib3.util.retry [DEBUG] retry.py[line:229] Converted retries value: u'3' -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2020-05-23 02:20:45,517 urllib3.util.retry [DEBUG] retry.py[line:229] Converted retries value: u'3' -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2020-05-23 02:20:45,519 urllib3.util.retry [DEBUG] retry.py[line:229] Converted retries value: u'3' -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2020-05-23 02:20:45,519 urllib3.util.retry [DEBUG] retry.py[line:229] Converted retries value: u'3' -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2020-05-23 02:20:45,520 request.request_method [INFO] request_method.py[line:175] 调用request_post_cookies_json
+2020-05-23 02:20:45,523 urllib3.connectionpool [DEBUG] connectionpool.py[line:225] Starting new HTTP connection (1): 127.0.0.1:5000
+2020-05-23 02:20:45,532 urllib3.connectionpool [DEBUG] connectionpool.py[line:437] http://127.0.0.1:5000 "POST /login HTTP/1.1" 200 327
+2020-05-23 02:20:45,535 urllib3.connectionpool [DEBUG] connectionpool.py[line:225] Starting new HTTP connection (1): 127.0.0.1:5000
+2020-05-23 02:20:45,539 urllib3.connectionpool [DEBUG] connectionpool.py[line:437] http://127.0.0.1:5000 "POST /api/1.0/add_user2 HTTP/1.1" 402 58
+2020-05-23 02:20:45,542 chardet.charsetprober [DEBUG] charsetgroupprober.py[line:100] utf-8  confidence = 0.99
+2020-05-23 02:20:45,542 chardet.charsetprober [DEBUG] charsetgroupprober.py[line:100] SHIFT_JIS Japanese confidence = 0.01
+2020-05-23 02:20:45,542 chardet.charsetprober [DEBUG] charsetgroupprober.py[line:100] EUC-JP Japanese confidence = 0.01
+2020-05-23 02:20:45,542 chardet.charsetprober [DEBUG] charsetgroupprober.py[line:100] GB2312 Chinese confidence = 0.01
+2020-05-23 02:20:45,542 chardet.charsetprober [DEBUG] charsetgroupprober.py[line:100] EUC-KR Korean confidence = 0.01
+2020-05-23 02:20:45,542 chardet.charsetprober [DEBUG] charsetgroupprober.py[line:100] CP949 Korean confidence = 0.01
+2020-05-23 02:20:45,542 chardet.charsetprober [DEBUG] charsetgroupprober.py[line:100] Big5 Chinese confidence = 0.01
+2020-05-23 02:20:45,542 chardet.charsetprober [DEBUG] charsetgroupprober.py[line:100] EUC-TW Taiwan confidence = 0.01
+2020-05-23 02:20:45,542 chardet.charsetprober [DEBUG] charsetgroupprober.py[line:100] windows-1251 Russian confidence = 0.01
+2020-05-23 02:20:45,542 chardet.charsetprober [DEBUG] charsetgroupprober.py[line:100] KOI8-R Russian confidence = 0.01
+2020-05-23 02:20:45,542 chardet.charsetprober [DEBUG] charsetgroupprober.py[line:100] ISO-8859-5 Russian confidence = 0.0
+2020-05-23 02:20:45,542 chardet.charsetprober [DEBUG] charsetgroupprober.py[line:100] MacCyrillic Russian confidence = 0.0
+2020-05-23 02:20:45,542 chardet.charsetprober [DEBUG] charsetgroupprober.py[line:100] IBM866 Russian confidence = 0.100388199158
+2020-05-23 02:20:45,542 chardet.charsetprober [DEBUG] charsetgroupprober.py[line:100] IBM855 Russian confidence = 0.11092896007
+2020-05-23 02:20:45,542 chardet.charsetprober [DEBUG] charsetgroupprober.py[line:100] ISO-8859-7 Greek confidence = 0.0
+2020-05-23 02:20:45,543 chardet.charsetprober [DEBUG] charsetgroupprober.py[line:100] windows-1253 Greek confidence = 0.0
+2020-05-23 02:20:45,543 chardet.charsetprober [DEBUG] charsetgroupprober.py[line:100] ISO-8859-5 Bulgairan confidence = 0.0
+2020-05-23 02:20:45,543 chardet.charsetprober [DEBUG] charsetgroupprober.py[line:100] windows-1251 Bulgarian confidence = 0.0
+2020-05-23 02:20:45,545 chardet.charsetprober [DEBUG] charsetgroupprober.py[line:100] TIS-620 Thai confidence = 0.0974515782598
+2020-05-23 02:20:45,545 chardet.charsetprober [DEBUG] charsetgroupprober.py[line:100] ISO-8859-9 Turkish confidence = 0.292563014915
+2020-05-23 02:20:45,545 chardet.charsetprober [DEBUG] charsetgroupprober.py[line:100] windows-1255 Hebrew confidence = 0.0
+2020-05-23 02:20:45,545 chardet.charsetprober [DEBUG] charsetgroupprober.py[line:100] windows-1255 Hebrew confidence = 0.0
+2020-05-23 02:20:45,545 chardet.charsetprober [DEBUG] charsetgroupprober.py[line:100] windows-1255 Hebrew confidence = 0.0
+2020-05-23 02:20:45,545 chardet.charsetprober [DEBUG] charsetgroupprober.py[line:100] utf-8  confidence = 0.99
+2020-05-23 02:20:45,546 chardet.charsetprober [DEBUG] charsetgroupprober.py[line:100] SHIFT_JIS Japanese confidence = 0.01
+2020-05-23 02:20:45,546 chardet.charsetprober [DEBUG] charsetgroupprober.py[line:100] EUC-JP Japanese confidence = 0.01
+2020-05-23 02:20:45,546 chardet.charsetprober [DEBUG] charsetgroupprober.py[line:100] GB2312 Chinese confidence = 0.01
+2020-05-23 02:20:45,546 chardet.charsetprober [DEBUG] charsetgroupprober.py[line:100] EUC-KR Korean confidence = 0.01
+2020-05-23 02:20:45,546 chardet.charsetprober [DEBUG] charsetgroupprober.py[line:100] CP949 Korean confidence = 0.01
+2020-05-23 02:20:45,546 chardet.charsetprober [DEBUG] charsetgroupprober.py[line:100] Big5 Chinese confidence = 0.01
+2020-05-23 02:20:45,546 chardet.charsetprober [DEBUG] charsetgroupprober.py[line:100] EUC-TW Taiwan confidence = 0.01
+2020-05-23 02:20:45,546 request.request_method [INFO] request_method.py[line:200] request_post_cookies_json返回res_code，res_result
+2020-05-23 02:20:45,548 test_api_case [INFO] test_api_case.py[line:396] Test_api006接口测试结束...
+2020-05-23 02:20:45,548 test_api_case [INFO] test_api_case.py[line:446] Test_api007接口测试结束...
+2020-05-23 02:20:45,549 urllib3.util.retry [DEBUG] retry.py[line:229] Converted retries value: u'3' -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2020-05-23 02:20:45,549 urllib3.util.retry [DEBUG] retry.py[line:229] Converted retries value: u'3' -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2020-05-23 02:20:45,551 test_api_case [INFO] test_api_case.py[line:477] Test_api007接口用例test_api007开始测试...
+2020-05-23 02:20:45,552 urllib3.util.retry [DEBUG] retry.py[line:229] Converted retries value: u'3' -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2020-05-23 02:20:45,553 urllib3.util.retry [DEBUG] retry.py[line:229] Converted retries value: u'3' -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2020-05-23 02:20:45,555 urllib3.util.retry [DEBUG] retry.py[line:229] Converted retries value: u'3' -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2020-05-23 02:20:45,555 urllib3.util.retry [DEBUG] retry.py[line:229] Converted retries value: u'3' -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2020-05-23 02:20:45,555 request.request_method [INFO] request_method.py[line:238] 调用request_get_data
+2020-05-23 02:20:45,558 urllib3.connectionpool [DEBUG] connectionpool.py[line:225] Starting new HTTP connection (1): 127.0.0.1:5000
+2020-05-23 02:20:45,565 urllib3.connectionpool [DEBUG] connectionpool.py[line:437] http://127.0.0.1:5000 "POST /login HTTP/1.1" 200 327
+2020-05-23 02:20:45,568 urllib3.connectionpool [DEBUG] connectionpool.py[line:225] Starting new HTTP connection (1): 127.0.0.1:5000
+2020-05-23 02:20:45,572 urllib3.connectionpool [DEBUG] connectionpool.py[line:437] http://127.0.0.1:5000 "GET /api/1.0/get_user_data HTTP/1.1" 200 85
+2020-05-23 02:20:45,572 request.request_method [INFO] request_method.py[line:263] request_get_data返回res_code，res_result
+2020-05-23 02:20:45,575 test_api_case [INFO] test_api_case.py[line:477] Test_api007接口用例test_api007开始测试...
+2020-05-23 02:20:45,578 urllib3.util.retry [DEBUG] retry.py[line:229] Converted retries value: u'3' -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2020-05-23 02:20:45,578 urllib3.util.retry [DEBUG] retry.py[line:229] Converted retries value: u'3' -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2020-05-23 02:20:45,578 urllib3.util.retry [DEBUG] retry.py[line:229] Converted retries value: u'3' -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2020-05-23 02:20:45,579 urllib3.util.retry [DEBUG] retry.py[line:229] Converted retries value: u'3' -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2020-05-23 02:20:45,579 request.request_method [INFO] request_method.py[line:238] 调用request_get_data
+2020-05-23 02:20:45,582 urllib3.connectionpool [DEBUG] connectionpool.py[line:225] Starting new HTTP connection (1): 127.0.0.1:5000
+2020-05-23 02:20:45,592 urllib3.connectionpool [DEBUG] connectionpool.py[line:437] http://127.0.0.1:5000 "POST /login HTTP/1.1" 200 327
+2020-05-23 02:20:45,595 urllib3.connectionpool [DEBUG] connectionpool.py[line:225] Starting new HTTP connection (1): 127.0.0.1:5000
+2020-05-23 02:20:45,599 urllib3.connectionpool [DEBUG] connectionpool.py[line:437] http://127.0.0.1:5000 "GET /api/1.0/get_user_data HTTP/1.1" 401 52
+2020-05-23 02:20:45,601 chardet.charsetprober [DEBUG] charsetgroupprober.py[line:100] utf-8  confidence = 0.99
+2020-05-23 02:20:45,601 chardet.charsetprober [DEBUG] charsetgroupprober.py[line:100] SHIFT_JIS Japanese confidence = 0.01
+2020-05-23 02:20:45,601 chardet.charsetprober [DEBUG] charsetgroupprober.py[line:100] EUC-JP Japanese confidence = 0.01
+2020-05-23 02:20:45,601 chardet.charsetprober [DEBUG] charsetgroupprober.py[line:100] GB2312 Chinese confidence = 0.01
+2020-05-23 02:20:45,601 chardet.charsetprober [DEBUG] charsetgroupprober.py[line:100] EUC-KR Korean confidence = 0.01
+2020-05-23 02:20:45,601 chardet.charsetprober [DEBUG] charsetgroupprober.py[line:100] CP949 Korean confidence = 0.01
+2020-05-23 02:20:45,601 chardet.charsetprober [DEBUG] charsetgroupprober.py[line:100] Big5 Chinese confidence = 0.01
+2020-05-23 02:20:45,601 chardet.charsetprober [DEBUG] charsetgroupprober.py[line:100] EUC-TW Taiwan confidence = 0.01
+2020-05-23 02:20:45,601 chardet.charsetprober [DEBUG] charsetgroupprober.py[line:100] windows-1251 Russian confidence = 0.01
+2020-05-23 02:20:45,602 chardet.charsetprober [DEBUG] charsetgroupprober.py[line:100] KOI8-R Russian confidence = 0.01
+2020-05-23 02:20:45,602 chardet.charsetprober [DEBUG] charsetgroupprober.py[line:100] ISO-8859-5 Russian confidence = 0.0
+2020-05-23 02:20:45,602 chardet.charsetprober [DEBUG] charsetgroupprober.py[line:100] MacCyrillic Russian confidence = 0.113773292379
+2020-05-23 02:20:45,602 chardet.charsetprober [DEBUG] charsetgroupprober.py[line:100] IBM866 Russian confidence = 0.0
+2020-05-23 02:20:45,602 chardet.charsetprober [DEBUG] charsetgroupprober.py[line:100] IBM855 Russian confidence = 0.0
+2020-05-23 02:20:45,602 chardet.charsetprober [DEBUG] charsetgroupprober.py[line:100] ISO-8859-7 Greek confidence = 0.0
+2020-05-23 02:20:45,602 chardet.charsetprober [DEBUG] charsetgroupprober.py[line:100] windows-1253 Greek confidence = 0.0
+2020-05-23 02:20:45,602 chardet.charsetprober [DEBUG] charsetgroupprober.py[line:100] ISO-8859-5 Bulgairan confidence = 0.0
+2020-05-23 02:20:45,602 chardet.charsetprober [DEBUG] charsetgroupprober.py[line:100] windows-1251 Bulgarian confidence = 0.0
+2020-05-23 02:20:45,602 chardet.charsetprober [DEBUG] charsetgroupprober.py[line:100] TIS-620 Thai confidence = 0.0779612626078
+2020-05-23 02:20:45,604 chardet.charsetprober [DEBUG] charsetgroupprober.py[line:100] ISO-8859-9 Turkish confidence = 0.29681847695
+2020-05-23 02:20:45,604 chardet.charsetprober [DEBUG] charsetgroupprober.py[line:100] windows-1255 Hebrew confidence = 0.0
+2020-05-23 02:20:45,604 chardet.charsetprober [DEBUG] charsetgroupprober.py[line:100] windows-1255 Hebrew confidence = 0.01
+2020-05-23 02:20:45,604 chardet.charsetprober [DEBUG] charsetgroupprober.py[line:100] windows-1255 Hebrew confidence = 0.01
+2020-05-23 02:20:45,604 chardet.charsetprober [DEBUG] charsetgroupprober.py[line:100] utf-8  confidence = 0.99
+2020-05-23 02:20:45,604 chardet.charsetprober [DEBUG] charsetgroupprober.py[line:100] SHIFT_JIS Japanese confidence = 0.01
+2020-05-23 02:20:45,604 chardet.charsetprober [DEBUG] charsetgroupprober.py[line:100] EUC-JP Japanese confidence = 0.01
+2020-05-23 02:20:45,604 chardet.charsetprober [DEBUG] charsetgroupprober.py[line:100] GB2312 Chinese confidence = 0.01
+2020-05-23 02:20:45,604 chardet.charsetprober [DEBUG] charsetgroupprober.py[line:100] EUC-KR Korean confidence = 0.01
+2020-05-23 02:20:45,604 chardet.charsetprober [DEBUG] charsetgroupprober.py[line:100] CP949 Korean confidence = 0.01
+2020-05-23 02:20:45,604 chardet.charsetprober [DEBUG] charsetgroupprober.py[line:100] Big5 Chinese confidence = 0.01
+2020-05-23 02:20:45,605 chardet.charsetprober [DEBUG] charsetgroupprober.py[line:100] EUC-TW Taiwan confidence = 0.01
+2020-05-23 02:20:45,605 request.request_method [INFO] request_method.py[line:263] request_get_data返回res_code，res_result
+2020-05-23 02:20:45,607 test_api_case [INFO] test_api_case.py[line:477] Test_api007接口用例test_api007开始测试...
+2020-05-23 02:20:45,608 urllib3.util.retry [DEBUG] retry.py[line:229] Converted retries value: u'3' -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2020-05-23 02:20:45,608 urllib3.util.retry [DEBUG] retry.py[line:229] Converted retries value: u'3' -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2020-05-23 02:20:45,608 urllib3.util.retry [DEBUG] retry.py[line:229] Converted retries value: u'3' -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2020-05-23 02:20:45,608 urllib3.util.retry [DEBUG] retry.py[line:229] Converted retries value: u'3' -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2020-05-23 02:20:45,608 request.request_method [INFO] request_method.py[line:238] 调用request_get_data
+2020-05-23 02:20:45,611 urllib3.connectionpool [DEBUG] connectionpool.py[line:225] Starting new HTTP connection (1): 127.0.0.1:5000
+2020-05-23 02:20:45,618 urllib3.connectionpool [DEBUG] connectionpool.py[line:437] http://127.0.0.1:5000 "POST /login HTTP/1.1" 200 327
+2020-05-23 02:20:45,621 urllib3.connectionpool [DEBUG] connectionpool.py[line:225] Starting new HTTP connection (1): 127.0.0.1:5000
+2020-05-23 02:20:45,627 urllib3.connectionpool [DEBUG] connectionpool.py[line:437] http://127.0.0.1:5000 "GET /api/1.0/get_user_data HTTP/1.1" 402 52
+2020-05-23 02:20:45,628 chardet.charsetprober [DEBUG] charsetgroupprober.py[line:100] utf-8  confidence = 0.99
+2020-05-23 02:20:45,628 chardet.charsetprober [DEBUG] charsetgroupprober.py[line:100] SHIFT_JIS Japanese confidence = 0.01
+2020-05-23 02:20:45,628 chardet.charsetprober [DEBUG] charsetgroupprober.py[line:100] EUC-JP Japanese confidence = 0.01
+2020-05-23 02:20:45,628 chardet.charsetprober [DEBUG] charsetgroupprober.py[line:100] GB2312 Chinese confidence = 0.01
+2020-05-23 02:20:45,630 chardet.charsetprober [DEBUG] charsetgroupprober.py[line:100] EUC-KR Korean confidence = 0.01
+2020-05-23 02:20:45,630 chardet.charsetprober [DEBUG] charsetgroupprober.py[line:100] CP949 Korean confidence = 0.01
+2020-05-23 02:20:45,630 chardet.charsetprober [DEBUG] charsetgroupprober.py[line:100] Big5 Chinese confidence = 0.01
+2020-05-23 02:20:45,630 chardet.charsetprober [DEBUG] charsetgroupprober.py[line:100] EUC-TW Taiwan confidence = 0.01
+2020-05-23 02:20:45,630 chardet.charsetprober [DEBUG] charsetgroupprober.py[line:100] windows-1251 Russian confidence = 0.01
+2020-05-23 02:20:45,630 chardet.charsetprober [DEBUG] charsetgroupprober.py[line:100] KOI8-R Russian confidence = 0.01
+2020-05-23 02:20:45,630 chardet.charsetprober [DEBUG] charsetgroupprober.py[line:100] ISO-8859-5 Russian confidence = 0.0
+2020-05-23 02:20:45,630 chardet.charsetprober [DEBUG] charsetgroupprober.py[line:100] MacCyrillic Russian confidence = 0.0924408000583
+2020-05-23 02:20:45,630 chardet.charsetprober [DEBUG] charsetgroupprober.py[line:100] IBM866 Russian confidence = 0.140028667544
+2020-05-23 02:20:45,630 chardet.charsetprober [DEBUG] charsetgroupprober.py[line:100] IBM855 Russian confidence = 0.113773292379
+2020-05-23 02:20:45,631 chardet.charsetprober [DEBUG] charsetgroupprober.py[line:100] ISO-8859-7 Greek confidence = 0.0
+2020-05-23 02:20:45,631 chardet.charsetprober [DEBUG] charsetgroupprober.py[line:100] windows-1253 Greek confidence = 0.0
+2020-05-23 02:20:45,631 chardet.charsetprober [DEBUG] charsetgroupprober.py[line:100] ISO-8859-5 Bulgairan confidence = 0.0
+2020-05-23 02:20:45,631 chardet.charsetprober [DEBUG] charsetgroupprober.py[line:100] windows-1251 Bulgarian confidence = 0.0
+2020-05-23 02:20:45,631 chardet.charsetprober [DEBUG] charsetgroupprober.py[line:100] TIS-620 Thai confidence = 0.0
+2020-05-23 02:20:45,631 chardet.charsetprober [DEBUG] charsetgroupprober.py[line:100] ISO-8859-9 Turkish confidence = 0.29681847695
+2020-05-23 02:20:45,631 chardet.charsetprober [DEBUG] charsetgroupprober.py[line:100] windows-1255 Hebrew confidence = 0.0
+2020-05-23 02:20:45,631 chardet.charsetprober [DEBUG] charsetgroupprober.py[line:100] windows-1255 Hebrew confidence = 0.0
+2020-05-23 02:20:45,631 chardet.charsetprober [DEBUG] charsetgroupprober.py[line:100] windows-1255 Hebrew confidence = 0.0
+2020-05-23 02:20:45,631 chardet.charsetprober [DEBUG] charsetgroupprober.py[line:100] utf-8  confidence = 0.99
+2020-05-23 02:20:45,631 chardet.charsetprober [DEBUG] charsetgroupprober.py[line:100] SHIFT_JIS Japanese confidence = 0.01
+2020-05-23 02:20:45,631 chardet.charsetprober [DEBUG] charsetgroupprober.py[line:100] EUC-JP Japanese confidence = 0.01
+2020-05-23 02:20:45,631 chardet.charsetprober [DEBUG] charsetgroupprober.py[line:100] GB2312 Chinese confidence = 0.01
+2020-05-23 02:20:45,631 chardet.charsetprober [DEBUG] charsetgroupprober.py[line:100] EUC-KR Korean confidence = 0.01
+2020-05-23 02:20:45,631 chardet.charsetprober [DEBUG] charsetgroupprober.py[line:100] CP949 Korean confidence = 0.01
+2020-05-23 02:20:45,631 chardet.charsetprober [DEBUG] charsetgroupprober.py[line:100] Big5 Chinese confidence = 0.01
+2020-05-23 02:20:45,631 chardet.charsetprober [DEBUG] charsetgroupprober.py[line:100] EUC-TW Taiwan confidence = 0.01
+2020-05-23 02:20:45,631 request.request_method [INFO] request_method.py[line:263] request_get_data返回res_code，res_result
+2020-05-23 02:20:45,634 test_api_case [INFO] test_api_case.py[line:505] Test_api008接口测试开始...
+2020-05-23 02:20:45,634 urllib3.util.retry [DEBUG] retry.py[line:229] Converted retries value: u'3' -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2020-05-23 02:20:45,634 urllib3.util.retry [DEBUG] retry.py[line:229] Converted retries value: u'3' -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2020-05-23 02:20:45,635 test_api_case [INFO] test_api_case.py[line:537] Test_api008接口用例test_api008开始测试...
+2020-05-23 02:20:45,637 urllib3.util.retry [DEBUG] retry.py[line:229] Converted retries value: u'3' -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2020-05-23 02:20:45,637 urllib3.util.retry [DEBUG] retry.py[line:229] Converted retries value: u'3' -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2020-05-23 02:20:45,638 urllib3.util.retry [DEBUG] retry.py[line:229] Converted retries value: u'3' -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2020-05-23 02:20:45,638 urllib3.util.retry [DEBUG] retry.py[line:229] Converted retries value: u'3' -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2020-05-23 02:20:45,638 request.request_method [INFO] request_method.py[line:238] 调用request_get_data
+2020-05-23 02:20:45,640 urllib3.connectionpool [DEBUG] connectionpool.py[line:225] Starting new HTTP connection (1): 127.0.0.1:5000
+2020-05-23 02:20:45,647 urllib3.connectionpool [DEBUG] connectionpool.py[line:437] http://127.0.0.1:5000 "POST /login HTTP/1.1" 200 327
+2020-05-23 02:20:45,651 urllib3.connectionpool [DEBUG] connectionpool.py[line:225] Starting new HTTP connection (1): 127.0.0.1:5000
+2020-05-23 02:20:45,654 urllib3.connectionpool [DEBUG] connectionpool.py[line:437] http://127.0.0.1:5000 "GET /api/1.0/get_user_data HTTP/1.1" 200 85
+2020-05-23 02:20:45,655 request.request_method [INFO] request_method.py[line:263] request_get_data返回res_code，res_result
+2020-05-23 02:20:45,657 test_api_case [INFO] test_api_case.py[line:537] Test_api008接口用例test_api008开始测试...
+2020-05-23 02:20:45,660 urllib3.util.retry [DEBUG] retry.py[line:229] Converted retries value: u'3' -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2020-05-23 02:20:45,660 urllib3.util.retry [DEBUG] retry.py[line:229] Converted retries value: u'3' -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2020-05-23 02:20:45,661 urllib3.util.retry [DEBUG] retry.py[line:229] Converted retries value: u'3' -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2020-05-23 02:20:45,661 urllib3.util.retry [DEBUG] retry.py[line:229] Converted retries value: u'3' -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2020-05-23 02:20:45,661 request.request_method [INFO] request_method.py[line:238] 调用request_get_data
+2020-05-23 02:20:45,663 urllib3.connectionpool [DEBUG] connectionpool.py[line:225] Starting new HTTP connection (1): 127.0.0.1:5000
+2020-05-23 02:20:45,673 urllib3.connectionpool [DEBUG] connectionpool.py[line:437] http://127.0.0.1:5000 "POST /login HTTP/1.1" 200 327
+2020-05-23 02:20:45,677 urllib3.connectionpool [DEBUG] connectionpool.py[line:225] Starting new HTTP connection (1): 127.0.0.1:5000
+2020-05-23 02:20:45,680 urllib3.connectionpool [DEBUG] connectionpool.py[line:437] http://127.0.0.1:5000 "GET /api/1.0/get_user_data HTTP/1.1" 401 52
+2020-05-23 02:20:45,681 chardet.charsetprober [DEBUG] charsetgroupprober.py[line:100] utf-8  confidence = 0.99
+2020-05-23 02:20:45,681 chardet.charsetprober [DEBUG] charsetgroupprober.py[line:100] SHIFT_JIS Japanese confidence = 0.01
+2020-05-23 02:20:45,681 chardet.charsetprober [DEBUG] charsetgroupprober.py[line:100] EUC-JP Japanese confidence = 0.01
+2020-05-23 02:20:45,681 chardet.charsetprober [DEBUG] charsetgroupprober.py[line:100] GB2312 Chinese confidence = 0.01
+2020-05-23 02:20:45,681 chardet.charsetprober [DEBUG] charsetgroupprober.py[line:100] EUC-KR Korean confidence = 0.01
+2020-05-23 02:20:45,683 chardet.charsetprober [DEBUG] charsetgroupprober.py[line:100] CP949 Korean confidence = 0.01
+2020-05-23 02:20:45,683 chardet.charsetprober [DEBUG] charsetgroupprober.py[line:100] Big5 Chinese confidence = 0.01
+2020-05-23 02:20:45,683 chardet.charsetprober [DEBUG] charsetgroupprober.py[line:100] EUC-TW Taiwan confidence = 0.01
+2020-05-23 02:20:45,683 chardet.charsetprober [DEBUG] charsetgroupprober.py[line:100] windows-1251 Russian confidence = 0.01
+2020-05-23 02:20:45,683 chardet.charsetprober [DEBUG] charsetgroupprober.py[line:100] KOI8-R Russian confidence = 0.01
+2020-05-23 02:20:45,683 chardet.charsetprober [DEBUG] charsetgroupprober.py[line:100] ISO-8859-5 Russian confidence = 0.0
+2020-05-23 02:20:45,683 chardet.charsetprober [DEBUG] charsetgroupprober.py[line:100] MacCyrillic Russian confidence = 0.113773292379
+2020-05-23 02:20:45,683 chardet.charsetprober [DEBUG] charsetgroupprober.py[line:100] IBM866 Russian confidence = 0.0
+2020-05-23 02:20:45,683 chardet.charsetprober [DEBUG] charsetgroupprober.py[line:100] IBM855 Russian confidence = 0.0
+2020-05-23 02:20:45,683 chardet.charsetprober [DEBUG] charsetgroupprober.py[line:100] ISO-8859-7 Greek confidence = 0.0
+2020-05-23 02:20:45,684 chardet.charsetprober [DEBUG] charsetgroupprober.py[line:100] windows-1253 Greek confidence = 0.0
+2020-05-23 02:20:45,684 chardet.charsetprober [DEBUG] charsetgroupprober.py[line:100] ISO-8859-5 Bulgairan confidence = 0.0
+2020-05-23 02:20:45,684 chardet.charsetprober [DEBUG] charsetgroupprober.py[line:100] windows-1251 Bulgarian confidence = 0.0
+2020-05-23 02:20:45,684 chardet.charsetprober [DEBUG] charsetgroupprober.py[line:100] TIS-620 Thai confidence = 0.0779612626078
+2020-05-23 02:20:45,684 chardet.charsetprober [DEBUG] charsetgroupprober.py[line:100] ISO-8859-9 Turkish confidence = 0.29681847695
+2020-05-23 02:20:45,684 chardet.charsetprober [DEBUG] charsetgroupprober.py[line:100] windows-1255 Hebrew confidence = 0.0
+2020-05-23 02:20:45,684 chardet.charsetprober [DEBUG] charsetgroupprober.py[line:100] windows-1255 Hebrew confidence = 0.01
+2020-05-23 02:20:45,684 chardet.charsetprober [DEBUG] charsetgroupprober.py[line:100] windows-1255 Hebrew confidence = 0.01
+2020-05-23 02:20:45,684 chardet.charsetprober [DEBUG] charsetgroupprober.py[line:100] utf-8  confidence = 0.99
+2020-05-23 02:20:45,684 chardet.charsetprober [DEBUG] charsetgroupprober.py[line:100] SHIFT_JIS Japanese confidence = 0.01
+2020-05-23 02:20:45,684 chardet.charsetprober [DEBUG] charsetgroupprober.py[line:100] EUC-JP Japanese confidence = 0.01
+2020-05-23 02:20:45,684 chardet.charsetprober [DEBUG] charsetgroupprober.py[line:100] GB2312 Chinese confidence = 0.01
+2020-05-23 02:20:45,684 chardet.charsetprober [DEBUG] charsetgroupprober.py[line:100] EUC-KR Korean confidence = 0.01
+2020-05-23 02:20:45,684 chardet.charsetprober [DEBUG] charsetgroupprober.py[line:100] CP949 Korean confidence = 0.01
+2020-05-23 02:20:45,684 chardet.charsetprober [DEBUG] charsetgroupprober.py[line:100] Big5 Chinese confidence = 0.01
+2020-05-23 02:20:45,684 chardet.charsetprober [DEBUG] charsetgroupprober.py[line:100] EUC-TW Taiwan confidence = 0.01
+2020-05-23 02:20:45,684 request.request_method [INFO] request_method.py[line:263] request_get_data返回res_code，res_result
+2020-05-23 02:20:45,687 test_api_case [INFO] test_api_case.py[line:537] Test_api008接口用例test_api008开始测试...
+2020-05-23 02:20:45,688 urllib3.util.retry [DEBUG] retry.py[line:229] Converted retries value: u'3' -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2020-05-23 02:20:45,688 urllib3.util.retry [DEBUG] retry.py[line:229] Converted retries value: u'3' -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2020-05-23 02:20:45,690 urllib3.util.retry [DEBUG] retry.py[line:229] Converted retries value: u'3' -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2020-05-23 02:20:45,690 urllib3.util.retry [DEBUG] retry.py[line:229] Converted retries value: u'3' -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2020-05-23 02:20:45,690 request.request_method [INFO] request_method.py[line:238] 调用request_get_data
+2020-05-23 02:20:45,694 urllib3.connectionpool [DEBUG] connectionpool.py[line:225] Starting new HTTP connection (1): 127.0.0.1:5000
+2020-05-23 02:20:45,700 urllib3.connectionpool [DEBUG] connectionpool.py[line:437] http://127.0.0.1:5000 "POST /login HTTP/1.1" 200 327
+2020-05-23 02:20:45,703 urllib3.connectionpool [DEBUG] connectionpool.py[line:225] Starting new HTTP connection (1): 127.0.0.1:5000
+2020-05-23 02:20:45,707 urllib3.connectionpool [DEBUG] connectionpool.py[line:437] http://127.0.0.1:5000 "GET /api/1.0/get_user_data HTTP/1.1" 402 52
+2020-05-23 02:20:45,710 chardet.charsetprober [DEBUG] charsetgroupprober.py[line:100] utf-8  confidence = 0.99
+2020-05-23 02:20:45,710 chardet.charsetprober [DEBUG] charsetgroupprober.py[line:100] SHIFT_JIS Japanese confidence = 0.01
+2020-05-23 02:20:45,710 chardet.charsetprober [DEBUG] charsetgroupprober.py[line:100] EUC-JP Japanese confidence = 0.01
+2020-05-23 02:20:45,710 chardet.charsetprober [DEBUG] charsetgroupprober.py[line:100] GB2312 Chinese confidence = 0.01
+2020-05-23 02:20:45,710 chardet.charsetprober [DEBUG] charsetgroupprober.py[line:100] EUC-KR Korean confidence = 0.01
+2020-05-23 02:20:45,710 chardet.charsetprober [DEBUG] charsetgroupprober.py[line:100] CP949 Korean confidence = 0.01
+2020-05-23 02:20:45,710 chardet.charsetprober [DEBUG] charsetgroupprober.py[line:100] Big5 Chinese confidence = 0.01
+2020-05-23 02:20:45,710 chardet.charsetprober [DEBUG] charsetgroupprober.py[line:100] EUC-TW Taiwan confidence = 0.01
+2020-05-23 02:20:45,710 chardet.charsetprober [DEBUG] charsetgroupprober.py[line:100] windows-1251 Russian confidence = 0.01
+2020-05-23 02:20:45,710 chardet.charsetprober [DEBUG] charsetgroupprober.py[line:100] KOI8-R Russian confidence = 0.01
+2020-05-23 02:20:45,710 chardet.charsetprober [DEBUG] charsetgroupprober.py[line:100] ISO-8859-5 Russian confidence = 0.0
+2020-05-23 02:20:45,710 chardet.charsetprober [DEBUG] charsetgroupprober.py[line:100] MacCyrillic Russian confidence = 0.0924408000583
+2020-05-23 02:20:45,711 chardet.charsetprober [DEBUG] charsetgroupprober.py[line:100] IBM866 Russian confidence = 0.140028667544
+2020-05-23 02:20:45,711 chardet.charsetprober [DEBUG] charsetgroupprober.py[line:100] IBM855 Russian confidence = 0.113773292379
+2020-05-23 02:20:45,711 chardet.charsetprober [DEBUG] charsetgroupprober.py[line:100] ISO-8859-7 Greek confidence = 0.0
+2020-05-23 02:20:45,711 chardet.charsetprober [DEBUG] charsetgroupprober.py[line:100] windows-1253 Greek confidence = 0.0
+2020-05-23 02:20:45,711 chardet.charsetprober [DEBUG] charsetgroupprober.py[line:100] ISO-8859-5 Bulgairan confidence = 0.0
+2020-05-23 02:20:45,711 chardet.charsetprober [DEBUG] charsetgroupprober.py[line:100] windows-1251 Bulgarian confidence = 0.0
+2020-05-23 02:20:45,711 chardet.charsetprober [DEBUG] charsetgroupprober.py[line:100] TIS-620 Thai confidence = 0.0
+2020-05-23 02:20:45,711 chardet.charsetprober [DEBUG] charsetgroupprober.py[line:100] ISO-8859-9 Turkish confidence = 0.29681847695
+2020-05-23 02:20:45,711 chardet.charsetprober [DEBUG] charsetgroupprober.py[line:100] windows-1255 Hebrew confidence = 0.0
+2020-05-23 02:20:45,711 chardet.charsetprober [DEBUG] charsetgroupprober.py[line:100] windows-1255 Hebrew confidence = 0.0
+2020-05-23 02:20:45,713 chardet.charsetprober [DEBUG] charsetgroupprober.py[line:100] windows-1255 Hebrew confidence = 0.0
+2020-05-23 02:20:45,713 chardet.charsetprober [DEBUG] charsetgroupprober.py[line:100] utf-8  confidence = 0.99
+2020-05-23 02:20:45,713 chardet.charsetprober [DEBUG] charsetgroupprober.py[line:100] SHIFT_JIS Japanese confidence = 0.01
+2020-05-23 02:20:45,713 chardet.charsetprober [DEBUG] charsetgroupprober.py[line:100] EUC-JP Japanese confidence = 0.01
+2020-05-23 02:20:45,713 chardet.charsetprober [DEBUG] charsetgroupprober.py[line:100] GB2312 Chinese confidence = 0.01
+2020-05-23 02:20:45,713 chardet.charsetprober [DEBUG] charsetgroupprober.py[line:100] EUC-KR Korean confidence = 0.01
+2020-05-23 02:20:45,713 chardet.charsetprober [DEBUG] charsetgroupprober.py[line:100] CP949 Korean confidence = 0.01
+2020-05-23 02:20:45,713 chardet.charsetprober [DEBUG] charsetgroupprober.py[line:100] Big5 Chinese confidence = 0.01
+2020-05-23 02:20:45,713 chardet.charsetprober [DEBUG] charsetgroupprober.py[line:100] EUC-TW Taiwan confidence = 0.01
+2020-05-23 02:20:45,713 request.request_method [INFO] request_method.py[line:263] request_get_data返回res_code，res_result
+2020-05-23 02:20:45,716 test_api_case [INFO] test_api_case.py[line:513] Test_api008接口测试结束...
+2020-05-23 02:20:45,716 test_api_case [INFO] test_api_case.py[line:566] Test_api009接口测试开始...
+2020-05-23 02:20:45,717 urllib3.util.retry [DEBUG] retry.py[line:229] Converted retries value: u'3' -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2020-05-23 02:20:45,717 urllib3.util.retry [DEBUG] retry.py[line:229] Converted retries value: u'3' -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2020-05-23 02:20:45,719 test_api_case [INFO] test_api_case.py[line:598] Test_api009接口用例test_api009开始测试...
+2020-05-23 02:20:45,720 urllib3.util.retry [DEBUG] retry.py[line:229] Converted retries value: u'3' -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2020-05-23 02:20:45,720 urllib3.util.retry [DEBUG] retry.py[line:229] Converted retries value: u'3' -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2020-05-23 02:20:45,721 urllib3.util.retry [DEBUG] retry.py[line:229] Converted retries value: u'3' -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2020-05-23 02:20:45,721 urllib3.util.retry [DEBUG] retry.py[line:229] Converted retries value: u'3' -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2020-05-23 02:20:45,721 request.request_method [INFO] request_method.py[line:175] 调用request_post_cookies_json
+2020-05-23 02:20:45,723 urllib3.connectionpool [DEBUG] connectionpool.py[line:225] Starting new HTTP connection (1): 127.0.0.1:5000
+2020-05-23 02:20:45,734 urllib3.connectionpool [DEBUG] connectionpool.py[line:437] http://127.0.0.1:5000 "POST /login HTTP/1.1" 200 327
+2020-05-23 02:20:45,737 urllib3.connectionpool [DEBUG] connectionpool.py[line:225] Starting new HTTP connection (1): 127.0.0.1:5000
+2020-05-23 02:20:45,742 urllib3.connectionpool [DEBUG] connectionpool.py[line:437] http://127.0.0.1:5000 "POST /api/1.0/del_user HTTP/1.1" 200 208
+2020-05-23 02:20:45,743 request.request_method [INFO] request_method.py[line:200] request_post_cookies_json返回res_code，res_result
+2020-05-23 02:20:45,744 test_api_case [INFO] test_api_case.py[line:598] Test_api009接口用例test_api009开始测试...
+2020-05-23 02:20:45,746 urllib3.util.retry [DEBUG] retry.py[line:229] Converted retries value: u'3' -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2020-05-23 02:20:45,746 urllib3.util.retry [DEBUG] retry.py[line:229] Converted retries value: u'3' -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2020-05-23 02:20:45,749 urllib3.util.retry [DEBUG] retry.py[line:229] Converted retries value: u'3' -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2020-05-23 02:20:45,749 urllib3.util.retry [DEBUG] retry.py[line:229] Converted retries value: u'3' -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2020-05-23 02:20:45,749 request.request_method [INFO] request_method.py[line:175] 调用request_post_cookies_json
+2020-05-23 02:20:45,750 urllib3.connectionpool [DEBUG] connectionpool.py[line:225] Starting new HTTP connection (1): 127.0.0.1:5000
+2020-05-23 02:20:45,760 urllib3.connectionpool [DEBUG] connectionpool.py[line:437] http://127.0.0.1:5000 "POST /login HTTP/1.1" 200 327
+2020-05-23 02:20:45,763 urllib3.connectionpool [DEBUG] connectionpool.py[line:225] Starting new HTTP connection (1): 127.0.0.1:5000
+2020-05-23 02:20:45,767 urllib3.connectionpool [DEBUG] connectionpool.py[line:437] http://127.0.0.1:5000 "POST /api/1.0/del_user HTTP/1.1" 200 112
+2020-05-23 02:20:45,769 request.request_method [INFO] request_method.py[line:200] request_post_cookies_json返回res_code，res_result
+2020-05-23 02:20:45,770 test_api_case [INFO] test_api_case.py[line:598] Test_api009接口用例test_api009开始测试...
+2020-05-23 02:20:45,772 urllib3.util.retry [DEBUG] retry.py[line:229] Converted retries value: u'3' -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2020-05-23 02:20:45,773 urllib3.util.retry [DEBUG] retry.py[line:229] Converted retries value: u'3' -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2020-05-23 02:20:45,773 urllib3.util.retry [DEBUG] retry.py[line:229] Converted retries value: u'3' -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2020-05-23 02:20:45,773 urllib3.util.retry [DEBUG] retry.py[line:229] Converted retries value: u'3' -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2020-05-23 02:20:45,773 request.request_method [INFO] request_method.py[line:175] 调用request_post_cookies_json
+2020-05-23 02:20:45,776 urllib3.connectionpool [DEBUG] connectionpool.py[line:225] Starting new HTTP connection (1): 127.0.0.1:5000
+2020-05-23 02:20:45,785 urllib3.connectionpool [DEBUG] connectionpool.py[line:437] http://127.0.0.1:5000 "POST /login HTTP/1.1" 200 327
+2020-05-23 02:20:45,788 urllib3.connectionpool [DEBUG] connectionpool.py[line:225] Starting new HTTP connection (1): 127.0.0.1:5000
+2020-05-23 02:20:45,792 urllib3.connectionpool [DEBUG] connectionpool.py[line:437] http://127.0.0.1:5000 "POST /api/1.0/del_user HTTP/1.1" 401 52
+2020-05-23 02:20:45,793 chardet.charsetprober [DEBUG] charsetgroupprober.py[line:100] utf-8  confidence = 0.99
+2020-05-23 02:20:45,795 chardet.charsetprober [DEBUG] charsetgroupprober.py[line:100] SHIFT_JIS Japanese confidence = 0.01
+2020-05-23 02:20:45,795 chardet.charsetprober [DEBUG] charsetgroupprober.py[line:100] EUC-JP Japanese confidence = 0.01
+2020-05-23 02:20:45,795 chardet.charsetprober [DEBUG] charsetgroupprober.py[line:100] GB2312 Chinese confidence = 0.01
+2020-05-23 02:20:45,795 chardet.charsetprober [DEBUG] charsetgroupprober.py[line:100] EUC-KR Korean confidence = 0.01
+2020-05-23 02:20:45,795 chardet.charsetprober [DEBUG] charsetgroupprober.py[line:100] CP949 Korean confidence = 0.01
+2020-05-23 02:20:45,795 chardet.charsetprober [DEBUG] charsetgroupprober.py[line:100] Big5 Chinese confidence = 0.01
+2020-05-23 02:20:45,795 chardet.charsetprober [DEBUG] charsetgroupprober.py[line:100] EUC-TW Taiwan confidence = 0.01
+2020-05-23 02:20:45,795 chardet.charsetprober [DEBUG] charsetgroupprober.py[line:100] windows-1251 Russian confidence = 0.01
+2020-05-23 02:20:45,796 chardet.charsetprober [DEBUG] charsetgroupprober.py[line:100] KOI8-R Russian confidence = 0.01
+2020-05-23 02:20:45,796 chardet.charsetprober [DEBUG] charsetgroupprober.py[line:100] ISO-8859-5 Russian confidence = 0.0
+2020-05-23 02:20:45,796 chardet.charsetprober [DEBUG] charsetgroupprober.py[line:100] MacCyrillic Russian confidence = 0.113773292379
+2020-05-23 02:20:45,796 chardet.charsetprober [DEBUG] charsetgroupprober.py[line:100] IBM866 Russian confidence = 0.0
+2020-05-23 02:20:45,796 chardet.charsetprober [DEBUG] charsetgroupprober.py[line:100] IBM855 Russian confidence = 0.0
+2020-05-23 02:20:45,796 chardet.charsetprober [DEBUG] charsetgroupprober.py[line:100] ISO-8859-7 Greek confidence = 0.0
+2020-05-23 02:20:45,796 chardet.charsetprober [DEBUG] charsetgroupprober.py[line:100] windows-1253 Greek confidence = 0.0
+2020-05-23 02:20:45,796 chardet.charsetprober [DEBUG] charsetgroupprober.py[line:100] ISO-8859-5 Bulgairan confidence = 0.0
+2020-05-23 02:20:45,796 chardet.charsetprober [DEBUG] charsetgroupprober.py[line:100] windows-1251 Bulgarian confidence = 0.0
+2020-05-23 02:20:45,796 chardet.charsetprober [DEBUG] charsetgroupprober.py[line:100] TIS-620 Thai confidence = 0.0779612626078
+2020-05-23 02:20:45,796 chardet.charsetprober [DEBUG] charsetgroupprober.py[line:100] ISO-8859-9 Turkish confidence = 0.29681847695
+2020-05-23 02:20:45,796 chardet.charsetprober [DEBUG] charsetgroupprober.py[line:100] windows-1255 Hebrew confidence = 0.0
+2020-05-23 02:20:45,796 chardet.charsetprober [DEBUG] charsetgroupprober.py[line:100] windows-1255 Hebrew confidence = 0.01
+2020-05-23 02:20:45,796 chardet.charsetprober [DEBUG] charsetgroupprober.py[line:100] windows-1255 Hebrew confidence = 0.01
+2020-05-23 02:20:45,796 chardet.charsetprober [DEBUG] charsetgroupprober.py[line:100] utf-8  confidence = 0.99
+2020-05-23 02:20:45,796 chardet.charsetprober [DEBUG] charsetgroupprober.py[line:100] SHIFT_JIS Japanese confidence = 0.01
+2020-05-23 02:20:45,796 chardet.charsetprober [DEBUG] charsetgroupprober.py[line:100] EUC-JP Japanese confidence = 0.01
+2020-05-23 02:20:45,796 chardet.charsetprober [DEBUG] charsetgroupprober.py[line:100] GB2312 Chinese confidence = 0.01
+2020-05-23 02:20:45,796 chardet.charsetprober [DEBUG] charsetgroupprober.py[line:100] EUC-KR Korean confidence = 0.01
+2020-05-23 02:20:45,796 chardet.charsetprober [DEBUG] charsetgroupprober.py[line:100] CP949 Korean confidence = 0.01
+2020-05-23 02:20:45,798 chardet.charsetprober [DEBUG] charsetgroupprober.py[line:100] Big5 Chinese confidence = 0.01
+2020-05-23 02:20:45,798 chardet.charsetprober [DEBUG] charsetgroupprober.py[line:100] EUC-TW Taiwan confidence = 0.01
+2020-05-23 02:20:45,798 request.request_method [INFO] request_method.py[line:200] request_post_cookies_json返回res_code，res_result
+2020-05-23 02:20:45,799 test_api_case [INFO] test_api_case.py[line:598] Test_api009接口用例test_api009开始测试...
+2020-05-23 02:20:45,802 urllib3.util.retry [DEBUG] retry.py[line:229] Converted retries value: u'3' -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2020-05-23 02:20:45,802 urllib3.util.retry [DEBUG] retry.py[line:229] Converted retries value: u'3' -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2020-05-23 02:20:45,802 urllib3.util.retry [DEBUG] retry.py[line:229] Converted retries value: u'3' -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2020-05-23 02:20:45,802 urllib3.util.retry [DEBUG] retry.py[line:229] Converted retries value: u'3' -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2020-05-23 02:20:45,802 request.request_method [INFO] request_method.py[line:175] 调用request_post_cookies_json
+2020-05-23 02:20:45,805 urllib3.connectionpool [DEBUG] connectionpool.py[line:225] Starting new HTTP connection (1): 127.0.0.1:5000
+2020-05-23 02:20:45,819 urllib3.connectionpool [DEBUG] connectionpool.py[line:437] http://127.0.0.1:5000 "POST /login HTTP/1.1" 200 327
+2020-05-23 02:20:45,822 urllib3.connectionpool [DEBUG] connectionpool.py[line:225] Starting new HTTP connection (1): 127.0.0.1:5000
+2020-05-23 02:20:45,825 urllib3.connectionpool [DEBUG] connectionpool.py[line:437] http://127.0.0.1:5000 "POST /api/1.0/del_user HTTP/1.1" 402 52
+2020-05-23 02:20:45,828 chardet.charsetprober [DEBUG] charsetgroupprober.py[line:100] utf-8  confidence = 0.99
+2020-05-23 02:20:45,828 chardet.charsetprober [DEBUG] charsetgroupprober.py[line:100] SHIFT_JIS Japanese confidence = 0.01
+2020-05-23 02:20:45,829 chardet.charsetprober [DEBUG] charsetgroupprober.py[line:100] EUC-JP Japanese confidence = 0.01
+2020-05-23 02:20:45,829 chardet.charsetprober [DEBUG] charsetgroupprober.py[line:100] GB2312 Chinese confidence = 0.01
+2020-05-23 02:20:45,829 chardet.charsetprober [DEBUG] charsetgroupprober.py[line:100] EUC-KR Korean confidence = 0.01
+2020-05-23 02:20:45,829 chardet.charsetprober [DEBUG] charsetgroupprober.py[line:100] CP949 Korean confidence = 0.01
+2020-05-23 02:20:45,829 chardet.charsetprober [DEBUG] charsetgroupprober.py[line:100] Big5 Chinese confidence = 0.01
+2020-05-23 02:20:45,829 chardet.charsetprober [DEBUG] charsetgroupprober.py[line:100] EUC-TW Taiwan confidence = 0.01
+2020-05-23 02:20:45,829 chardet.charsetprober [DEBUG] charsetgroupprober.py[line:100] windows-1251 Russian confidence = 0.01
+2020-05-23 02:20:45,829 chardet.charsetprober [DEBUG] charsetgroupprober.py[line:100] KOI8-R Russian confidence = 0.01
+2020-05-23 02:20:45,829 chardet.charsetprober [DEBUG] charsetgroupprober.py[line:100] ISO-8859-5 Russian confidence = 0.0
+2020-05-23 02:20:45,831 chardet.charsetprober [DEBUG] charsetgroupprober.py[line:100] MacCyrillic Russian confidence = 0.0924408000583
+2020-05-23 02:20:45,831 chardet.charsetprober [DEBUG] charsetgroupprober.py[line:100] IBM866 Russian confidence = 0.140028667544
+2020-05-23 02:20:45,831 chardet.charsetprober [DEBUG] charsetgroupprober.py[line:100] IBM855 Russian confidence = 0.113773292379
+2020-05-23 02:20:45,831 chardet.charsetprober [DEBUG] charsetgroupprober.py[line:100] ISO-8859-7 Greek confidence = 0.0
+2020-05-23 02:20:45,831 chardet.charsetprober [DEBUG] charsetgroupprober.py[line:100] windows-1253 Greek confidence = 0.0
+2020-05-23 02:20:45,831 chardet.charsetprober [DEBUG] charsetgroupprober.py[line:100] ISO-8859-5 Bulgairan confidence = 0.0
+2020-05-23 02:20:45,831 chardet.charsetprober [DEBUG] charsetgroupprober.py[line:100] windows-1251 Bulgarian confidence = 0.0
+2020-05-23 02:20:45,831 chardet.charsetprober [DEBUG] charsetgroupprober.py[line:100] TIS-620 Thai confidence = 0.0
+2020-05-23 02:20:45,831 chardet.charsetprober [DEBUG] charsetgroupprober.py[line:100] ISO-8859-9 Turkish confidence = 0.29681847695
+2020-05-23 02:20:45,831 chardet.charsetprober [DEBUG] charsetgroupprober.py[line:100] windows-1255 Hebrew confidence = 0.0
+2020-05-23 02:20:45,831 chardet.charsetprober [DEBUG] charsetgroupprober.py[line:100] windows-1255 Hebrew confidence = 0.0
+2020-05-23 02:20:45,832 chardet.charsetprober [DEBUG] charsetgroupprober.py[line:100] windows-1255 Hebrew confidence = 0.0
+2020-05-23 02:20:45,832 chardet.charsetprober [DEBUG] charsetgroupprober.py[line:100] utf-8  confidence = 0.99
+2020-05-23 02:20:45,832 chardet.charsetprober [DEBUG] charsetgroupprober.py[line:100] SHIFT_JIS Japanese confidence = 0.01
+2020-05-23 02:20:45,832 chardet.charsetprober [DEBUG] charsetgroupprober.py[line:100] EUC-JP Japanese confidence = 0.01
+2020-05-23 02:20:45,832 chardet.charsetprober [DEBUG] charsetgroupprober.py[line:100] GB2312 Chinese confidence = 0.01
+2020-05-23 02:20:45,832 chardet.charsetprober [DEBUG] charsetgroupprober.py[line:100] EUC-KR Korean confidence = 0.01
+2020-05-23 02:20:45,832 chardet.charsetprober [DEBUG] charsetgroupprober.py[line:100] CP949 Korean confidence = 0.01
+2020-05-23 02:20:45,832 chardet.charsetprober [DEBUG] charsetgroupprober.py[line:100] Big5 Chinese confidence = 0.01
+2020-05-23 02:20:45,832 chardet.charsetprober [DEBUG] charsetgroupprober.py[line:100] EUC-TW Taiwan confidence = 0.01
+2020-05-23 02:20:45,832 request.request_method [INFO] request_method.py[line:200] request_post_cookies_json返回res_code，res_result
+2020-05-23 02:20:45,834 test_api_case [INFO] test_api_case.py[line:574] Test_api009接口测试结束...
